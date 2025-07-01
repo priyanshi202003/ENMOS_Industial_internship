@@ -1,14 +1,16 @@
-# Smart Monitoring System - ML and Visualization
+# ENMOS- ENERGY CONSUMPTION MONITORING, ANOMALY DETECTION AND MAINTENANCE SYSTEM
 
-This project implements machine learning models and visualization components for a smart monitoring system that analyzes temperature and current data from ESP32 sensors.
+This project implements machine learning models and visualization components for a smart monitoring system that analyzes temperature and current data from ARDUINO UNO sensors. Realtime data collected from Arduino Uno is send to training models which further make predictions on whether a device requires maintenance or not and also detects anomalies. The results are displayed on a dashboard made of Dash framework. On running web application, automatic emails are also send to the corresponding recepient when an anomaly occurs.
 
 ## Features
 
+-Realtime Data Collection
 - Advanced Anomaly Detection using Isolation Forest and LSTM
 - Predictive Maintenance using Random Forest
 - Energy Consumption Analysis
 - Real-time Visualization Dashboard
 - Historical Data Analysis
+- Email Alert System
 
 ## Project Structure
 
@@ -20,17 +22,48 @@ Render-2/
 └── utils/             # Utility functions
 ```
 
-## Setup
+## Setup and Working
 
-1. Install dependencies:
+#### STEP 1: INSTALL PYTHON 3.10  
+Ensure Python 3.10 is installed on your system.  
+Download it from: https://www.python.org/downloads/release/python-3100/
+
+---
+
+#### STEP 2: INSTALL DEPENDENCIES  
 ```bash
 pip install -r requirements.txt
 ```
 
-2. Run the web application:
+---
+
+#### STEP 3: GET REALTIME ARDUINO SENSOR OUTPUT
+```bash
+python arduino_integration/simulated_arduino_output.py
+```
+
+---
+#### STEP 4: TRAIN MACHINE LEARNING MODELS
+```bash
+python data/train_models.py
+```
+
+---
+
+#### STEP 5: VISUALIZE AND INSPECT DATA
+```bash
+python data/inspect_and_visualize.py
+```
+
+---
+
+#### STEP 6: LAUNCH THE WEB DASHBOARD
+
 ```bash
 python web/app.py
 ```
+
+---
 
 ## Components
 
