@@ -20,40 +20,31 @@ Render-2/
 └── utils/             # Utility functions
 ```
 
-# ╔════════════════════════════════════════════╗
-# ║          STEP 1: INSTALL PYTHON 3.10       ║
-# ╚════════════════════════════════════════════╝
-# Ensure Python 3.10 is installed on your system.
-# Download it from: https://www.python.org/downloads/release/python-3100/
+## Setup and Working
+STEP 1: INSTALL PYTHON 3.10
+Ensure Python 3.10 is installed on your system.
+Download it from: https://www.python.org/downloads/release/python-3100/
 
-# ╔════════════════════════════════════════════╗
-# ║         STEP 2: INSTALL REQUIREMENTS       ║
-# ╚════════════════════════════════════════════╝
+STEP 2: INSTALL DEPENDENCIES
+Install the required Python packages using pip.
 pip install -r requirements.txt
 
-# ╔═════════════════════════════════════════════════════╗
-# ║   STEP 3: RUN SIMULATED ARDUINO OUTPUT MODULE       ║
-# ╚═════════════════════════════════════════════════════╝
-# This script simulates sensor data and streams it to the system.
+STEP 3: SIMULATE ARDUINO SENSOR OUTPUT
+This script generates and streams simulated real-time sensor data to the system.
 python arduino_integration/simulated_arduino_output.py
 
-# ╔════════════════════════════════════════════════╗
-# ║   STEP 4: TRAIN MACHINE LEARNING MODELS        ║
-# ╚════════════════════════════════════════════════╝
-# Trains Isolation Forest, LSTM, and Random Forest models on the dataset.
+STEP 4: TRAIN MACHINE LEARNING MODELS
+Trains Isolation Forest, LSTM, and Random Forest models using the collected dataset.
 python data/train_models.py
 
-# ╔════════════════════════════════════════════════════╗
-# ║     STEP 5: INSPECT AND VISUALIZE THE DATASET     ║
-# ╚════════════════════════════════════════════════════╝
-# Generates plots and summaries for visual inspection of data.
+STEP 5: VISUALIZE AND INSPECT DATA
+Provides graphical analysis and insights into the dataset used for anomaly detection.
 python data/inspect_and_visualize.py
 
-# ╔══════════════════════════════════════════════════════╗
-# ║         STEP 6: RUN THE WEB DASHBOARD APP            ║
-# ╚══════════════════════════════════════════════════════╝
-# Starts the real-time monitoring dashboard with model outputs.
+STEP 6: LAUNCH THE WEB DASHBOARD
+Starts the web application for live monitoring, anomaly detection, and data visualization.
 python web/app.py
+
 
 ## Components
 
