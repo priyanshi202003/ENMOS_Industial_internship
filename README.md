@@ -21,42 +21,47 @@ Render-2/
 ```
 
 ## Setup and Working
-STEP 1: INSTALL PYTHON 3.10
 
-Ensure Python 3.10 is installed on your system.
-
+### STEP 1: INSTALL PYTHON 3.10  
+Ensure Python 3.10 is installed on your system.  
 Download it from: https://www.python.org/downloads/release/python-3100/
 
-STEP 2: INSTALL DEPENDENCIES
+---
 
-Install the required Python packages using pip.
-
+### STEP 2: INSTALL DEPENDENCIES  
+```bash
 pip install -r requirements.txt
+```
 
-STEP 3: SIMULATE ARDUINO SENSOR OUTPUT
+---
 
-This script generates and streams simulated real-time sensor data to the system.
-
+### STEP 3: GET REALTIME ARDUINO SENSOR OUTPUT
+```bash
 python arduino_integration/simulated_arduino_output.py
+```
 
-STEP 4: TRAIN MACHINE LEARNING MODELS
-
-Trains Isolation Forest, LSTM, and Random Forest models using the collected dataset.
-
+---
+### STEP 4: TRAIN MACHINE LEARNING MODELS
+```bash
 python data/train_models.py
+```
 
-STEP 5: VISUALIZE AND INSPECT DATA
+---
 
-Provides graphical analysis and insights into the dataset used for anomaly detection.
-
+### STEP 5: VISUALIZE AND INSPECT DATA
+```bash
 python data/inspect_and_visualize.py
+```
 
-STEP 6: LAUNCH THE WEB DASHBOARD
+---
 
-Starts the web application for live monitoring, anomaly detection, and data visualization.
+### STEP 6: LAUNCH THE WEB DASHBOARD
 
+```bash
 python web/app.py
+```
 
+---
 
 ## Components
 
