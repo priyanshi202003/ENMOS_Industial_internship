@@ -1,0 +1,7919 @@
+{
+  "metadata": {
+    "created": "2025-06-30T16:01:54.836799",
+    "total_anomalies": 565,
+    "last_updated": "2025-06-30T16:34:56.969524"
+  },
+  "anomalies": [
+    {
+      "timestamp": "2025-06-30T16:01:55.742943",
+      "anomaly_type": "POWER",
+      "value": 692.5224999999999,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.5,
+        "humidity": 52,
+        "voltage": 219.5,
+        "current": 3.155,
+        "power": 692.5224999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:01:59.972695",
+      "anomaly_type": "POWER",
+      "value": 710.5644000000001,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.8,
+        "humidity": 51,
+        "voltage": 226.8,
+        "current": 3.133,
+        "power": 710.5644000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:02:02.191513",
+      "anomaly_type": "POWER",
+      "value": 712.1808,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 52,
+        "voltage": 219.2,
+        "current": 3.249,
+        "power": 712.1808
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:02:04.265544",
+      "anomaly_type": "POWER",
+      "value": 703.0835999999999,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.9,
+        "humidity": 53,
+        "voltage": 216.6,
+        "current": 3.246,
+        "power": 703.0835999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:02:06.347888",
+      "anomaly_type": "POWER",
+      "value": 724.6806,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 21.0,
+        "humidity": 52,
+        "voltage": 219.8,
+        "current": 3.297,
+        "power": 724.6806
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:02:08.434038",
+      "anomaly_type": "POWER",
+      "value": 707.2359,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 52,
+        "voltage": 214.9,
+        "current": 3.291,
+        "power": 707.2359
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:02:12.606020",
+      "anomaly_type": "POWER",
+      "value": 701.3860999999999,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 21.1,
+        "humidity": 52,
+        "voltage": 224.3,
+        "current": 3.127,
+        "power": 701.3860999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:02:14.676401",
+      "anomaly_type": "POWER",
+      "value": 697.46,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.9,
+        "humidity": 50,
+        "voltage": 215.0,
+        "current": 3.244,
+        "power": 697.46
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:02:16.756202",
+      "anomaly_type": "POWER",
+      "value": 722.9448,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 53,
+        "voltage": 223.2,
+        "current": 3.239,
+        "power": 722.9448
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:02:18.893883",
+      "anomaly_type": "POWER",
+      "value": 687.913,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.9,
+        "humidity": 53,
+        "voltage": 219.5,
+        "current": 3.134,
+        "power": 687.913
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:02:20.995528",
+      "anomaly_type": "POWER",
+      "value": 767.722,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 53,
+        "voltage": 226.0,
+        "current": 3.397,
+        "power": 767.722
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:02:23.080275",
+      "anomaly_type": "POWER",
+      "value": 700.1568,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.2,
+        "humidity": 51,
+        "voltage": 211.4,
+        "current": 3.312,
+        "power": 700.1568
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:02:25.201292",
+      "anomaly_type": "POWER",
+      "value": 720.3036,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 51,
+        "voltage": 210.8,
+        "current": 3.417,
+        "power": 720.3036
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:02:27.292911",
+      "anomaly_type": "POWER",
+      "value": 733.488,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 50,
+        "voltage": 218.3,
+        "current": 3.36,
+        "power": 733.488
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:02:29.414216",
+      "anomaly_type": "POWER",
+      "value": 712.569,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 21.0,
+        "humidity": 52,
+        "voltage": 226.5,
+        "current": 3.146,
+        "power": 712.569
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:02:31.467911",
+      "anomaly_type": "POWER",
+      "value": 699.779,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.8,
+        "humidity": 53,
+        "voltage": 221.8,
+        "current": 3.155,
+        "power": 699.779
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:02:33.586845",
+      "anomaly_type": "POWER",
+      "value": 728.2674,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 50,
+        "voltage": 215.4,
+        "current": 3.381,
+        "power": 728.2674
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:02:35.651219",
+      "anomaly_type": "POWER",
+      "value": 692.3552,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.9,
+        "humidity": 51,
+        "voltage": 211.6,
+        "current": 3.272,
+        "power": 692.3552
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:02:37.750098",
+      "anomaly_type": "POWER",
+      "value": 713.5029000000001,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.2,
+        "humidity": 52,
+        "voltage": 222.9,
+        "current": 3.201,
+        "power": 713.5029000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:02:39.858400",
+      "anomaly_type": "POWER",
+      "value": 690.3672,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 21.0,
+        "humidity": 50,
+        "voltage": 214.8,
+        "current": 3.214,
+        "power": 690.3672
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:02:41.905008",
+      "anomaly_type": "POWER",
+      "value": 727.9392,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.2,
+        "humidity": 53,
+        "voltage": 229.2,
+        "current": 3.176,
+        "power": 727.9392
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:02:58.486011",
+      "anomaly_type": "HUMIDITY",
+      "value": 51,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.2,
+        "humidity": 51,
+        "voltage": 228.3,
+        "current": 3.241,
+        "power": 739.9203000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:03:00.544487",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.8,
+        "humidity": 50,
+        "voltage": 211.1,
+        "current": 3.068,
+        "power": 647.6548
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:03:02.587934",
+      "anomaly_type": "HUMIDITY",
+      "value": 53,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.3,
+        "humidity": 53,
+        "voltage": 226.8,
+        "current": 3.327,
+        "power": 754.5636000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:03:04.678217",
+      "anomaly_type": "HUMIDITY",
+      "value": 53,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.8,
+        "humidity": 53,
+        "voltage": 226.4,
+        "current": 3.071,
+        "power": 695.2744
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:03:06.741701",
+      "anomaly_type": "HUMIDITY",
+      "value": 51,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 21.1,
+        "humidity": 51,
+        "voltage": 220.2,
+        "current": 3.182,
+        "power": 700.6764
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:03:08.809535",
+      "anomaly_type": "HUMIDITY",
+      "value": 53,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 21.1,
+        "humidity": 53,
+        "voltage": 227.1,
+        "current": 3.265,
+        "power": 741.4815
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:03:10.882933",
+      "anomaly_type": "HUMIDITY",
+      "value": 53,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.9,
+        "humidity": 53,
+        "voltage": 214.7,
+        "current": 3.381,
+        "power": 725.9006999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:03:12.966877",
+      "anomaly_type": "HUMIDITY",
+      "value": 51,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.8,
+        "humidity": 51,
+        "voltage": 226.6,
+        "current": 3.383,
+        "power": 766.5878
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:03:27.606270",
+      "anomaly_type": "POWER",
+      "value": 733.15,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 53,
+        "voltage": 215.0,
+        "current": 3.41,
+        "power": 733.15
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:03:29.688941",
+      "anomaly_type": "POWER",
+      "value": 757.0354,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.8,
+        "humidity": 49,
+        "voltage": 222.2,
+        "current": 3.407,
+        "power": 757.0354
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:03:31.812692",
+      "anomaly_type": "POWER",
+      "value": 748.8088,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 49,
+        "voltage": 224.8,
+        "current": 3.331,
+        "power": 748.8088
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:03:33.898744",
+      "anomaly_type": "POWER",
+      "value": 738.304,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 51,
+        "voltage": 224.0,
+        "current": 3.296,
+        "power": 738.304
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:03:35.966996",
+      "anomaly_type": "POWER",
+      "value": 729.083,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 52,
+        "voltage": 220.6,
+        "current": 3.305,
+        "power": 729.083
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:03:38.047647",
+      "anomaly_type": "POWER",
+      "value": 739.2969999999999,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 51,
+        "voltage": 214.6,
+        "current": 3.445,
+        "power": 739.2969999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:03:40.137023",
+      "anomaly_type": "POWER",
+      "value": 780.2117999999999,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 21.0,
+        "humidity": 51,
+        "voltage": 228.6,
+        "current": 3.413,
+        "power": 780.2117999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:03:42.260067",
+      "anomaly_type": "POWER",
+      "value": 782.6114,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 21.0,
+        "humidity": 50,
+        "voltage": 228.7,
+        "current": 3.422,
+        "power": 782.6114
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:03:44.352486",
+      "anomaly_type": "POWER",
+      "value": 707.061,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 21.0,
+        "humidity": 52,
+        "voltage": 211.0,
+        "current": 3.351,
+        "power": 707.061
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:03:46.462389",
+      "anomaly_type": "POWER",
+      "value": 747.8403000000001,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 50,
+        "voltage": 227.1,
+        "current": 3.293,
+        "power": 747.8403000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:03:48.570430",
+      "anomaly_type": "POWER",
+      "value": 765.0867,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.5,
+        "humidity": 52,
+        "voltage": 221.7,
+        "current": 3.451,
+        "power": 765.0867
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:03:52.802725",
+      "anomaly_type": "POWER",
+      "value": 653.8295999999999,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 51,
+        "voltage": 213.6,
+        "current": 3.061,
+        "power": 653.8295999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:03:54.898252",
+      "anomaly_type": "POWER",
+      "value": 717.8892999999999,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.8,
+        "humidity": 52,
+        "voltage": 228.7,
+        "current": 3.139,
+        "power": 717.8892999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:03:56.977908",
+      "anomaly_type": "POWER",
+      "value": 739.276,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 21.1,
+        "humidity": 53,
+        "voltage": 219.5,
+        "current": 3.368,
+        "power": 739.276
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:03:59.044771",
+      "anomaly_type": "POWER",
+      "value": 676.606,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 52,
+        "voltage": 217.0,
+        "current": 3.118,
+        "power": 676.606
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:04:01.161595",
+      "anomaly_type": "POWER",
+      "value": 726.273,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 50,
+        "voltage": 218.1,
+        "current": 3.33,
+        "power": 726.273
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:04:03.294692",
+      "anomaly_type": "POWER",
+      "value": 738.164,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.8,
+        "humidity": 53,
+        "voltage": 229.6,
+        "current": 3.215,
+        "power": 738.164
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:04:05.436167",
+      "anomaly_type": "POWER",
+      "value": 753.1264,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 21.0,
+        "humidity": 50,
+        "voltage": 226.3,
+        "current": 3.328,
+        "power": 753.1264
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:04:07.539656",
+      "anomaly_type": "POWER",
+      "value": 694.8557,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.8,
+        "humidity": 53,
+        "voltage": 220.1,
+        "current": 3.157,
+        "power": 694.8557
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:04:09.622095",
+      "anomaly_type": "POWER",
+      "value": 706.5415999999999,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 50,
+        "voltage": 216.2,
+        "current": 3.268,
+        "power": 706.5415999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:04:11.694492",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 21.1,
+        "humidity": 50,
+        "voltage": 228.3,
+        "current": 3.287,
+        "power": 750.4221
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:04:11.720485",
+      "anomaly_type": "POWER",
+      "value": 750.4221,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 21.1,
+        "humidity": 50,
+        "voltage": 228.3,
+        "current": 3.287,
+        "power": 750.4221
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:04:13.798290",
+      "anomaly_type": "HUMIDITY",
+      "value": 53,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 21.1,
+        "humidity": 53,
+        "voltage": 213.6,
+        "current": 3.318,
+        "power": 708.7248
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:04:13.843178",
+      "anomaly_type": "POWER",
+      "value": 708.7248,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 21.1,
+        "humidity": 53,
+        "voltage": 213.6,
+        "current": 3.318,
+        "power": 708.7248
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:04:15.938113",
+      "anomaly_type": "HUMIDITY",
+      "value": 51,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.2,
+        "humidity": 51,
+        "voltage": 211.2,
+        "current": 3.184,
+        "power": 672.4608
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:04:20.115664",
+      "anomaly_type": "HUMIDITY",
+      "value": 53,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.2,
+        "humidity": 53,
+        "voltage": 228.5,
+        "current": 3.113,
+        "power": 711.3205
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:04:22.202498",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 52,
+        "voltage": 211.2,
+        "current": 3.115,
+        "power": 657.888
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:04:24.287951",
+      "anomaly_type": "HUMIDITY",
+      "value": 51,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.2,
+        "humidity": 51,
+        "voltage": 213.7,
+        "current": 3.429,
+        "power": 732.7773
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:04:26.435874",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 52,
+        "voltage": 226.8,
+        "current": 3.054,
+        "power": 692.6472
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:04:28.550209",
+      "anomaly_type": "HUMIDITY",
+      "value": 53,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 21.0,
+        "humidity": 53,
+        "voltage": 218.3,
+        "current": 3.153,
+        "power": 688.2999000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:04:30.636745",
+      "anomaly_type": "HUMIDITY",
+      "value": 51,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.5,
+        "humidity": 51,
+        "voltage": 215.0,
+        "current": 3.304,
+        "power": 710.36
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:04:34.789522",
+      "anomaly_type": "HUMIDITY",
+      "value": 53,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.9,
+        "humidity": 53,
+        "voltage": 210.1,
+        "current": 3.338,
+        "power": 701.3138
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:04:36.901842",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 50,
+        "voltage": 226.8,
+        "current": 3.108,
+        "power": 704.8944
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:04:38.993831",
+      "anomaly_type": "HUMIDITY",
+      "value": 53,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 53,
+        "voltage": 211.1,
+        "current": 3.439,
+        "power": 725.9729
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:04:41.069966",
+      "anomaly_type": "HUMIDITY",
+      "value": 51,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 51,
+        "voltage": 223.9,
+        "current": 3.156,
+        "power": 706.6284
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:04:43.157899",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.3,
+        "humidity": 50,
+        "voltage": 222.3,
+        "current": 3.071,
+        "power": 682.6833
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:04:45.224838",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.8,
+        "humidity": 50,
+        "voltage": 221.2,
+        "current": 3.406,
+        "power": 753.4072
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:04:47.342226",
+      "anomaly_type": "HUMIDITY",
+      "value": 51,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.8,
+        "humidity": 51,
+        "voltage": 229.6,
+        "current": 3.202,
+        "power": 735.1791999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:04:49.508030",
+      "anomaly_type": "HUMIDITY",
+      "value": 51,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.1,
+        "humidity": 51,
+        "voltage": 210.9,
+        "current": 3.391,
+        "power": 715.1619000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:04:51.593998",
+      "anomaly_type": "HUMIDITY",
+      "value": 53,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.9,
+        "humidity": 53,
+        "voltage": 223.0,
+        "current": 3.442,
+        "power": 767.566
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:04:53.681584",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.3,
+        "humidity": 50,
+        "voltage": 218.4,
+        "current": 3.428,
+        "power": 748.6752
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:04:55.764022",
+      "anomaly_type": "HUMIDITY",
+      "value": 53,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 21.0,
+        "humidity": 53,
+        "voltage": 228.1,
+        "current": 3.437,
+        "power": 783.9797
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:04:57.842160",
+      "anomaly_type": "HUMIDITY",
+      "value": 51,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 51,
+        "voltage": 226.2,
+        "current": 3.356,
+        "power": 759.1271999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:04:59.929891",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.3,
+        "humidity": 50,
+        "voltage": 211.2,
+        "current": 3.359,
+        "power": 709.4208
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:05:02.002239",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 50,
+        "voltage": 222.1,
+        "current": 3.176,
+        "power": 705.3896
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:05:06.381213",
+      "anomaly_type": "HUMIDITY",
+      "value": 53,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.2,
+        "humidity": 53,
+        "voltage": 225.0,
+        "current": 3.104,
+        "power": 698.4
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:05:08.842733",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.5,
+        "humidity": 52,
+        "voltage": 213.8,
+        "current": 3.356,
+        "power": 717.5128
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:05:11.092345",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 50,
+        "voltage": 221.8,
+        "current": 3.076,
+        "power": 682.2568
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:10:54.175068",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 50,
+        "voltage": 227.4,
+        "current": 3.408,
+        "power": 774.9792
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:10:54.343104",
+      "anomaly_type": "POWER",
+      "value": 774.9792,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 50,
+        "voltage": 227.4,
+        "current": 3.408,
+        "power": 774.9792
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:10:56.929364",
+      "anomaly_type": "HUMIDITY",
+      "value": 49,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 49,
+        "voltage": 213.2,
+        "current": 3.151,
+        "power": 671.7932
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:10:56.958364",
+      "anomaly_type": "POWER",
+      "value": 671.7932,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 49,
+        "voltage": 213.2,
+        "current": 3.151,
+        "power": 671.7932
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:10:59.107663",
+      "anomaly_type": "HUMIDITY",
+      "value": 51,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.1,
+        "humidity": 51,
+        "voltage": 223.9,
+        "current": 3.035,
+        "power": 679.5365
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:11:03.628168",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 50,
+        "voltage": 216.5,
+        "current": 3.285,
+        "power": 711.2025
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:11:05.723692",
+      "anomaly_type": "HUMIDITY",
+      "value": 51,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.9,
+        "humidity": 51,
+        "voltage": 222.3,
+        "current": 3.255,
+        "power": 723.5865
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:11:07.821751",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 21.0,
+        "humidity": 50,
+        "voltage": 211.5,
+        "current": 3.342,
+        "power": 706.833
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:11:09.914851",
+      "anomaly_type": "HUMIDITY",
+      "value": 53,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 53,
+        "voltage": 224.7,
+        "current": 3.177,
+        "power": 713.8719
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:11:12.185153",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.8,
+        "humidity": 52,
+        "voltage": 217.1,
+        "current": 3.122,
+        "power": 677.7862
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:11:12.229253",
+      "anomaly_type": "POWER",
+      "value": 677.7862,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.8,
+        "humidity": 52,
+        "voltage": 217.1,
+        "current": 3.122,
+        "power": 677.7862
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:11:14.319428",
+      "anomaly_type": "HUMIDITY",
+      "value": 49,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 49,
+        "voltage": 217.1,
+        "current": 3.338,
+        "power": 724.6798
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:11:16.423191",
+      "anomaly_type": "HUMIDITY",
+      "value": 49,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.2,
+        "humidity": 49,
+        "voltage": 219.1,
+        "current": 3.405,
+        "power": 746.0355
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:11:26.730618",
+      "anomaly_type": "POWER",
+      "value": 722.5652,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 50,
+        "voltage": 211.4,
+        "current": 3.418,
+        "power": 722.5652
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:11:28.809117",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.3,
+        "humidity": 50,
+        "voltage": 216.8,
+        "current": 3.269,
+        "power": 708.7192000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:11:28.849612",
+      "anomaly_type": "POWER",
+      "value": 708.7192000000001,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.3,
+        "humidity": 50,
+        "voltage": 216.8,
+        "current": 3.269,
+        "power": 708.7192000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:11:30.921794",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 52,
+        "voltage": 221.2,
+        "current": 3.169,
+        "power": 700.9828
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:11:30.949936",
+      "anomaly_type": "POWER",
+      "value": 700.9828,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 52,
+        "voltage": 221.2,
+        "current": 3.169,
+        "power": 700.9828
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:11:33.005377",
+      "anomaly_type": "HUMIDITY",
+      "value": 49,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.9,
+        "humidity": 49,
+        "voltage": 224.1,
+        "current": 3.306,
+        "power": 740.8746
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:11:33.020928",
+      "anomaly_type": "POWER",
+      "value": 740.8746,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.9,
+        "humidity": 49,
+        "voltage": 224.1,
+        "current": 3.306,
+        "power": 740.8746
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:11:35.047010",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.3,
+        "humidity": 52,
+        "voltage": 225.7,
+        "current": 3.042,
+        "power": 686.5794
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:11:35.059455",
+      "anomaly_type": "POWER",
+      "value": 686.5794,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.3,
+        "humidity": 52,
+        "voltage": 225.7,
+        "current": 3.042,
+        "power": 686.5794
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:11:37.104346",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.5,
+        "humidity": 52,
+        "voltage": 226.9,
+        "current": 3.138,
+        "power": 712.0122
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:11:37.123679",
+      "anomaly_type": "POWER",
+      "value": 712.0122,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.5,
+        "humidity": 52,
+        "voltage": 226.9,
+        "current": 3.138,
+        "power": 712.0122
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:11:39.157704",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 21.0,
+        "humidity": 52,
+        "voltage": 210.4,
+        "current": 3.058,
+        "power": 643.4032
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:11:41.207650",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.3,
+        "humidity": 52,
+        "voltage": 219.2,
+        "current": 3.032,
+        "power": 664.6143999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:11:43.249545",
+      "anomaly_type": "HUMIDITY",
+      "value": 51,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.5,
+        "humidity": 51,
+        "voltage": 227.9,
+        "current": 3.156,
+        "power": 719.2524000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:11:45.296671",
+      "anomaly_type": "HUMIDITY",
+      "value": 51,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.3,
+        "humidity": 51,
+        "voltage": 212.2,
+        "current": 3.188,
+        "power": 676.4936
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:11:47.346825",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.5,
+        "humidity": 52,
+        "voltage": 228.2,
+        "current": 3.241,
+        "power": 739.5962
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:11:49.408382",
+      "anomaly_type": "HUMIDITY",
+      "value": 51,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 51,
+        "voltage": 229.8,
+        "current": 3.078,
+        "power": 707.3244
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:11:49.419551",
+      "anomaly_type": "POWER",
+      "value": 707.3244,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 51,
+        "voltage": 229.8,
+        "current": 3.078,
+        "power": 707.3244
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:11:51.442278",
+      "anomaly_type": "HUMIDITY",
+      "value": 53,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.5,
+        "humidity": 53,
+        "voltage": 220.0,
+        "current": 3.158,
+        "power": 694.76
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:11:51.461009",
+      "anomaly_type": "POWER",
+      "value": 694.76,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.5,
+        "humidity": 53,
+        "voltage": 220.0,
+        "current": 3.158,
+        "power": 694.76
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:11:53.508653",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 50,
+        "voltage": 216.8,
+        "current": 3.308,
+        "power": 717.1744
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:11:53.526522",
+      "anomaly_type": "POWER",
+      "value": 717.1744,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 50,
+        "voltage": 216.8,
+        "current": 3.308,
+        "power": 717.1744
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:11:55.569899",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 50,
+        "voltage": 211.7,
+        "current": 3.036,
+        "power": 642.7212
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:11:57.630557",
+      "anomaly_type": "HUMIDITY",
+      "value": 53,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 53,
+        "voltage": 219.6,
+        "current": 3.412,
+        "power": 749.2751999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:11:59.683225",
+      "anomaly_type": "HUMIDITY",
+      "value": 53,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.2,
+        "humidity": 53,
+        "voltage": 218.4,
+        "current": 3.097,
+        "power": 676.3848
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:12:01.710867",
+      "anomaly_type": "HUMIDITY",
+      "value": 49,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.9,
+        "humidity": 49,
+        "voltage": 224.7,
+        "current": 3.034,
+        "power": 681.7398
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:12:03.768660",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 52,
+        "voltage": 210.1,
+        "current": 3.363,
+        "power": 706.5663
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:12:05.840145",
+      "anomaly_type": "HUMIDITY",
+      "value": 49,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.1,
+        "humidity": 49,
+        "voltage": 222.1,
+        "current": 3.413,
+        "power": 758.0273
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:12:07.895494",
+      "anomaly_type": "HUMIDITY",
+      "value": 49,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 21.0,
+        "humidity": 49,
+        "voltage": 226.9,
+        "current": 3.167,
+        "power": 718.5923
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:12:09.939305",
+      "anomaly_type": "HUMIDITY",
+      "value": 53,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.8,
+        "humidity": 53,
+        "voltage": 225.3,
+        "current": 3.191,
+        "power": 718.9323
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:12:12.016755",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.8,
+        "humidity": 50,
+        "voltage": 224.7,
+        "current": 3.415,
+        "power": 767.3505
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:12:14.066755",
+      "anomaly_type": "HUMIDITY",
+      "value": 49,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.1,
+        "humidity": 49,
+        "voltage": 225.8,
+        "current": 3.073,
+        "power": 693.8834
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:12:16.116485",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 50,
+        "voltage": 228.7,
+        "current": 3.18,
+        "power": 727.266
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:12:18.153551",
+      "anomaly_type": "HUMIDITY",
+      "value": 51,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 51,
+        "voltage": 220.2,
+        "current": 3.375,
+        "power": 743.175
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:12:20.198723",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.2,
+        "humidity": 50,
+        "voltage": 215.4,
+        "current": 3.379,
+        "power": 727.8366
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:12:22.239483",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.9,
+        "humidity": 50,
+        "voltage": 217.2,
+        "current": 3.357,
+        "power": 729.1404
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:12:24.330881",
+      "anomaly_type": "HUMIDITY",
+      "value": 51,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 51,
+        "voltage": 214.3,
+        "current": 3.304,
+        "power": 708.0472
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:12:26.401917",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.2,
+        "humidity": 52,
+        "voltage": 222.7,
+        "current": 3.26,
+        "power": 726.002
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:12:32.573959",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.5,
+        "humidity": 50,
+        "voltage": 216.1,
+        "current": 3.414,
+        "power": 737.7654
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:12:34.640613",
+      "anomaly_type": "HUMIDITY",
+      "value": 51,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.8,
+        "humidity": 51,
+        "voltage": 225.9,
+        "current": 3.287,
+        "power": 742.5333
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:12:34.660460",
+      "anomaly_type": "POWER",
+      "value": 742.5333,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.8,
+        "humidity": 51,
+        "voltage": 225.9,
+        "current": 3.287,
+        "power": 742.5333
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:12:36.701044",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.8,
+        "humidity": 52,
+        "voltage": 218.9,
+        "current": 3.085,
+        "power": 675.3065
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:12:36.713689",
+      "anomaly_type": "POWER",
+      "value": 675.3065,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.8,
+        "humidity": 52,
+        "voltage": 218.9,
+        "current": 3.085,
+        "power": 675.3065
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:12:38.757169",
+      "anomaly_type": "HUMIDITY",
+      "value": 51,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.1,
+        "humidity": 51,
+        "voltage": 223.9,
+        "current": 3.38,
+        "power": 756.782
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:12:38.783581",
+      "anomaly_type": "POWER",
+      "value": 756.782,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.1,
+        "humidity": 51,
+        "voltage": 223.9,
+        "current": 3.38,
+        "power": 756.782
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:12:40.837791",
+      "anomaly_type": "POWER",
+      "value": 715.6464,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.1,
+        "humidity": 52,
+        "voltage": 224.2,
+        "current": 3.192,
+        "power": 715.6464
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:12:42.889123",
+      "anomaly_type": "POWER",
+      "value": 757.8480999999999,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 49,
+        "voltage": 222.7,
+        "current": 3.403,
+        "power": 757.8480999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:12:44.949764",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 52,
+        "voltage": 213.6,
+        "current": 3.355,
+        "power": 716.6279999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:12:44.984622",
+      "anomaly_type": "POWER",
+      "value": 716.6279999999999,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 52,
+        "voltage": 213.6,
+        "current": 3.355,
+        "power": 716.6279999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:12:51.102836",
+      "anomaly_type": "POWER",
+      "value": 703.377,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.5,
+        "humidity": 49,
+        "voltage": 215.1,
+        "current": 3.27,
+        "power": 703.377
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:12:53.166330",
+      "anomaly_type": "POWER",
+      "value": 729.129,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 50,
+        "voltage": 215.4,
+        "current": 3.385,
+        "power": 729.129
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:12:55.400127",
+      "anomaly_type": "POWER",
+      "value": 743.9292,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 53,
+        "voltage": 222.8,
+        "current": 3.339,
+        "power": 743.9292
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:12:57.440810",
+      "anomaly_type": "POWER",
+      "value": 727.6101,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 51,
+        "voltage": 221.9,
+        "current": 3.279,
+        "power": 727.6101
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:12:59.483976",
+      "anomaly_type": "POWER",
+      "value": 709.8299999999999,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 50,
+        "voltage": 215.1,
+        "current": 3.3,
+        "power": 709.8299999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:13:01.531919",
+      "anomaly_type": "POWER",
+      "value": 751.1196,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.9,
+        "humidity": 52,
+        "voltage": 221.7,
+        "current": 3.388,
+        "power": 751.1196
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:13:03.572641",
+      "anomaly_type": "POWER",
+      "value": 725.42,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 51,
+        "voltage": 218.5,
+        "current": 3.32,
+        "power": 725.42
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:13:05.612234",
+      "anomaly_type": "POWER",
+      "value": 683.0784,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.3,
+        "humidity": 53,
+        "voltage": 214.4,
+        "current": 3.186,
+        "power": 683.0784
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:13:07.674709",
+      "anomaly_type": "POWER",
+      "value": 713.5542,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.1,
+        "humidity": 51,
+        "voltage": 224.6,
+        "current": 3.177,
+        "power": 713.5542
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:13:09.728175",
+      "anomaly_type": "POWER",
+      "value": 731.8909,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.3,
+        "humidity": 49,
+        "voltage": 224.3,
+        "current": 3.263,
+        "power": 731.8909
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:13:11.775398",
+      "anomaly_type": "POWER",
+      "value": 661.4993999999999,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.3,
+        "humidity": 49,
+        "voltage": 210.2,
+        "current": 3.147,
+        "power": 661.4993999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:13:13.824533",
+      "anomaly_type": "POWER",
+      "value": 722.2826,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 50,
+        "voltage": 215.8,
+        "current": 3.347,
+        "power": 722.2826
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:13:17.913560",
+      "anomaly_type": "POWER",
+      "value": 724.7994,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 53,
+        "voltage": 216.1,
+        "current": 3.354,
+        "power": 724.7994
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:13:19.951924",
+      "anomaly_type": "POWER",
+      "value": 732.1408,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.9,
+        "humidity": 50,
+        "voltage": 222.4,
+        "current": 3.292,
+        "power": 732.1408
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:13:38.385345",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 52,
+        "voltage": 225.8,
+        "current": 3.4,
+        "power": 767.72
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:13:56.815345",
+      "anomaly_type": "HUMIDITY",
+      "value": 53,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.9,
+        "humidity": 53,
+        "voltage": 229.5,
+        "current": 3.13,
+        "power": 718.3349999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:13:58.864099",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 52,
+        "voltage": 227.9,
+        "current": 3.333,
+        "power": 759.5907000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:14:11.120404",
+      "anomaly_type": "HUMIDITY",
+      "value": 51,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.2,
+        "humidity": 51,
+        "voltage": 225.2,
+        "current": 3.398,
+        "power": 765.2296
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:14:13.173439",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.3,
+        "humidity": 50,
+        "voltage": 218.0,
+        "current": 3.069,
+        "power": 669.042
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:14:21.365989",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.3,
+        "humidity": 50,
+        "voltage": 224.0,
+        "current": 3.107,
+        "power": 695.9680000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:14:23.412403",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 50,
+        "voltage": 221.3,
+        "current": 3.144,
+        "power": 695.7672000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:14:27.512735",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 50,
+        "voltage": 217.5,
+        "current": 3.118,
+        "power": 678.165
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:14:29.539000",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 52,
+        "voltage": 212.7,
+        "current": 3.29,
+        "power": 699.783
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:14:33.626645",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 21.0,
+        "humidity": 50,
+        "voltage": 210.6,
+        "current": 3.314,
+        "power": 697.9284
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:14:35.657650",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.8,
+        "humidity": 52,
+        "voltage": 221.3,
+        "current": 3.246,
+        "power": 718.3398000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:14:37.710400",
+      "anomaly_type": "HUMIDITY",
+      "value": 51,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 51,
+        "voltage": 215.9,
+        "current": 3.219,
+        "power": 694.9821
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:14:39.814962",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 21.0,
+        "humidity": 52,
+        "voltage": 221.1,
+        "current": 3.231,
+        "power": 714.3741
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:14:39.856503",
+      "anomaly_type": "POWER",
+      "value": 714.3741,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 21.0,
+        "humidity": 52,
+        "voltage": 221.1,
+        "current": 3.231,
+        "power": 714.3741
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:14:41.897667",
+      "anomaly_type": "HUMIDITY",
+      "value": 49,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 49,
+        "voltage": 229.6,
+        "current": 3.289,
+        "power": 755.1544
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:14:41.912830",
+      "anomaly_type": "POWER",
+      "value": 755.1544,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 49,
+        "voltage": 229.6,
+        "current": 3.289,
+        "power": 755.1544
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:14:43.950453",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 50,
+        "voltage": 227.1,
+        "current": 3.012,
+        "power": 684.0252
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:14:43.966399",
+      "anomaly_type": "POWER",
+      "value": 684.0252,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 50,
+        "voltage": 227.1,
+        "current": 3.012,
+        "power": 684.0252
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:14:46.011279",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 21.0,
+        "humidity": 50,
+        "voltage": 214.2,
+        "current": 3.276,
+        "power": 701.7191999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:14:46.030764",
+      "anomaly_type": "POWER",
+      "value": 701.7191999999999,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 21.0,
+        "humidity": 50,
+        "voltage": 214.2,
+        "current": 3.276,
+        "power": 701.7191999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:14:48.067833",
+      "anomaly_type": "POWER",
+      "value": 695.5806,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.1,
+        "humidity": 51,
+        "voltage": 221.1,
+        "current": 3.146,
+        "power": 695.5806
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:14:50.108795",
+      "anomaly_type": "POWER",
+      "value": 720.8068000000001,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 51,
+        "voltage": 226.1,
+        "current": 3.188,
+        "power": 720.8068000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:14:52.146771",
+      "anomaly_type": "POWER",
+      "value": 641.0151,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 50,
+        "voltage": 210.1,
+        "current": 3.051,
+        "power": 641.0151
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:14:58.248496",
+      "anomaly_type": "HUMIDITY",
+      "value": 53,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.9,
+        "humidity": 53,
+        "voltage": 213.8,
+        "current": 3.321,
+        "power": 710.0298
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:15:00.302365",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 52,
+        "voltage": 218.5,
+        "current": 3.189,
+        "power": 696.7965
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:15:00.405741",
+      "anomaly_type": "POWER",
+      "value": 696.7965,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 52,
+        "voltage": 218.5,
+        "current": 3.189,
+        "power": 696.7965
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:15:02.482437",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.9,
+        "humidity": 52,
+        "voltage": 218.5,
+        "current": 3.258,
+        "power": 711.873
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:15:02.525296",
+      "anomaly_type": "POWER",
+      "value": 711.873,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.9,
+        "humidity": 52,
+        "voltage": 218.5,
+        "current": 3.258,
+        "power": 711.873
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:15:08.696227",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.0,
+        "humidity": 50,
+        "voltage": 227.1,
+        "current": 3.156,
+        "power": 716.7276
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:15:39.206974",
+      "anomaly_type": "HUMIDITY",
+      "value": 53,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.9,
+        "humidity": 53,
+        "voltage": 214.2,
+        "current": 3.062,
+        "power": 655.8803999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:15:41.248551",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.5,
+        "humidity": 50,
+        "voltage": 213.5,
+        "current": 3.397,
+        "power": 725.2595
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:15:41.272592",
+      "anomaly_type": "POWER",
+      "value": 725.2595,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.5,
+        "humidity": 50,
+        "voltage": 213.5,
+        "current": 3.397,
+        "power": 725.2595
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:15:43.341018",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.9,
+        "humidity": 52,
+        "voltage": 226.6,
+        "current": 3.098,
+        "power": 702.0068
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:15:43.382010",
+      "anomaly_type": "POWER",
+      "value": 702.0068,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.9,
+        "humidity": 52,
+        "voltage": 226.6,
+        "current": 3.098,
+        "power": 702.0068
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:15:45.445638",
+      "anomaly_type": "POWER",
+      "value": 676.599,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 51,
+        "voltage": 223.3,
+        "current": 3.03,
+        "power": 676.599
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:15:47.489108",
+      "anomaly_type": "POWER",
+      "value": 719.1772000000001,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 21.0,
+        "humidity": 51,
+        "voltage": 227.3,
+        "current": 3.164,
+        "power": 719.1772000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:15:49.546117",
+      "anomaly_type": "POWER",
+      "value": 748.818,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.0,
+        "humidity": 51,
+        "voltage": 220.5,
+        "current": 3.396,
+        "power": 748.818
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:15:51.609193",
+      "anomaly_type": "POWER",
+      "value": 738.8511,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.2,
+        "humidity": 50,
+        "voltage": 219.7,
+        "current": 3.363,
+        "power": 738.8511
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:15:53.666584",
+      "anomaly_type": "POWER",
+      "value": 738.4806000000001,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.0,
+        "humidity": 53,
+        "voltage": 222.3,
+        "current": 3.322,
+        "power": 738.4806000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:15:55.715962",
+      "anomaly_type": "POWER",
+      "value": 715.5972,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.5,
+        "humidity": 51,
+        "voltage": 229.8,
+        "current": 3.114,
+        "power": 715.5972
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:15:57.749620",
+      "anomaly_type": "POWER",
+      "value": 715.5497,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.1,
+        "humidity": 52,
+        "voltage": 228.1,
+        "current": 3.137,
+        "power": 715.5497
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:15:59.811934",
+      "anomaly_type": "POWER",
+      "value": 648.2502,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.5,
+        "humidity": 52,
+        "voltage": 213.1,
+        "current": 3.042,
+        "power": 648.2502
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:16:01.927486",
+      "anomaly_type": "POWER",
+      "value": 647.6623999999999,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 51,
+        "voltage": 215.6,
+        "current": 3.004,
+        "power": 647.6623999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:16:04.004006",
+      "anomaly_type": "POWER",
+      "value": 678.4745,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 49,
+        "voltage": 219.5,
+        "current": 3.091,
+        "power": 678.4745
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:16:06.055478",
+      "anomaly_type": "POWER",
+      "value": 730.5024999999999,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.5,
+        "humidity": 52,
+        "voltage": 227.5,
+        "current": 3.211,
+        "power": 730.5024999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:16:08.143064",
+      "anomaly_type": "POWER",
+      "value": 689.975,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.3,
+        "humidity": 51,
+        "voltage": 212.3,
+        "current": 3.25,
+        "power": 689.975
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:16:10.206392",
+      "anomaly_type": "POWER",
+      "value": 753.3652,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.3,
+        "humidity": 52,
+        "voltage": 226.1,
+        "current": 3.332,
+        "power": 753.3652
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:16:12.273172",
+      "anomaly_type": "POWER",
+      "value": 717.3995,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.8,
+        "humidity": 49,
+        "voltage": 215.5,
+        "current": 3.329,
+        "power": 717.3995
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:16:14.329725",
+      "anomaly_type": "POWER",
+      "value": 720.8389999999999,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.5,
+        "humidity": 50,
+        "voltage": 219.1,
+        "current": 3.29,
+        "power": 720.8389999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:16:16.381903",
+      "anomaly_type": "POWER",
+      "value": 717.2665,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 21.0,
+        "humidity": 51,
+        "voltage": 223.1,
+        "current": 3.215,
+        "power": 717.2665
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:16:20.479258",
+      "anomaly_type": "POWER",
+      "value": 748.3852,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 51,
+        "voltage": 222.8,
+        "current": 3.359,
+        "power": 748.3852
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:16:22.529628",
+      "anomaly_type": "POWER",
+      "value": 714.678,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.5,
+        "humidity": 53,
+        "voltage": 229.8,
+        "current": 3.11,
+        "power": 714.678
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:16:24.570426",
+      "anomaly_type": "POWER",
+      "value": 734.598,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 51,
+        "voltage": 220.6,
+        "current": 3.33,
+        "power": 734.598
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:16:26.615978",
+      "anomaly_type": "POWER",
+      "value": 673.036,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 21.0,
+        "humidity": 51,
+        "voltage": 223.6,
+        "current": 3.01,
+        "power": 673.036
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:16:28.715346",
+      "anomaly_type": "POWER",
+      "value": 727.7766,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 49,
+        "voltage": 229.8,
+        "current": 3.167,
+        "power": 727.7766
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:16:30.791291",
+      "anomaly_type": "POWER",
+      "value": 712.4,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.9,
+        "humidity": 49,
+        "voltage": 219.2,
+        "current": 3.25,
+        "power": 712.4
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:16:32.862759",
+      "anomaly_type": "POWER",
+      "value": 641.9508,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.9,
+        "humidity": 52,
+        "voltage": 210.2,
+        "current": 3.054,
+        "power": 641.9508
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:16:34.938412",
+      "anomaly_type": "POWER",
+      "value": 688.2512,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.0,
+        "humidity": 51,
+        "voltage": 211.9,
+        "current": 3.248,
+        "power": 688.2512
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:16:36.992258",
+      "anomaly_type": "POWER",
+      "value": 682.6111999999999,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.9,
+        "humidity": 51,
+        "voltage": 217.6,
+        "current": 3.137,
+        "power": 682.6111999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:16:39.058803",
+      "anomaly_type": "POWER",
+      "value": 682.452,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.8,
+        "humidity": 51,
+        "voltage": 213.6,
+        "current": 3.195,
+        "power": 682.452
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:17:07.510323",
+      "anomaly_type": "POWER",
+      "value": 675.62,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 51,
+        "voltage": 220.0,
+        "current": 3.071,
+        "power": 675.62
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:17:19.687056",
+      "anomaly_type": "POWER",
+      "value": 682.6111999999999,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.3,
+        "humidity": 53,
+        "voltage": 217.6,
+        "current": 3.137,
+        "power": 682.6111999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:17:21.730917",
+      "anomaly_type": "POWER",
+      "value": 686.9397,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.3,
+        "humidity": 50,
+        "voltage": 225.3,
+        "current": 3.049,
+        "power": 686.9397
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:17:23.775457",
+      "anomaly_type": "POWER",
+      "value": 689.2951999999999,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 52,
+        "voltage": 211.7,
+        "current": 3.256,
+        "power": 689.2951999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:18:12.603238",
+      "anomaly_type": "POWER",
+      "value": 706.932,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.8,
+        "humidity": 51,
+        "voltage": 215.2,
+        "current": 3.285,
+        "power": 706.932
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:19:21.819985",
+      "anomaly_type": "POWER",
+      "value": 712.569,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 52,
+        "voltage": 226.5,
+        "current": 3.146,
+        "power": 712.569
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:19:34.000509",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.0,
+        "humidity": 52,
+        "voltage": 222.9,
+        "current": 3.066,
+        "power": 683.4114
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:19:44.130413",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 52,
+        "voltage": 211.4,
+        "current": 3.173,
+        "power": 670.7722
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:19:44.152818",
+      "anomaly_type": "POWER",
+      "value": 670.7722,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 52,
+        "voltage": 211.4,
+        "current": 3.173,
+        "power": 670.7722
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:19:46.198065",
+      "anomaly_type": "POWER",
+      "value": 687.7961999999999,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 51,
+        "voltage": 226.1,
+        "current": 3.042,
+        "power": 687.7961999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:19:48.246164",
+      "anomaly_type": "POWER",
+      "value": 703.8611999999999,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.8,
+        "humidity": 52,
+        "voltage": 222.6,
+        "current": 3.162,
+        "power": 703.8611999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:19:52.390362",
+      "anomaly_type": "POWER",
+      "value": 685.4621999999999,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.3,
+        "humidity": 50,
+        "voltage": 210.2,
+        "current": 3.261,
+        "power": 685.4621999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:19:54.481221",
+      "anomaly_type": "POWER",
+      "value": 683.0575,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 52,
+        "voltage": 216.5,
+        "current": 3.155,
+        "power": 683.0575
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:19:56.542351",
+      "anomaly_type": "POWER",
+      "value": 707.6036,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 21.0,
+        "humidity": 49,
+        "voltage": 220.3,
+        "current": 3.212,
+        "power": 707.6036
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:19:58.633493",
+      "anomaly_type": "POWER",
+      "value": 686.2751999999999,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.3,
+        "humidity": 52,
+        "voltage": 225.6,
+        "current": 3.042,
+        "power": 686.2751999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:20:00.699098",
+      "anomaly_type": "POWER",
+      "value": 745.0366,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.5,
+        "humidity": 49,
+        "voltage": 222.2,
+        "current": 3.353,
+        "power": 745.0366
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:20:02.776623",
+      "anomaly_type": "POWER",
+      "value": 671.4892000000001,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.5,
+        "humidity": 51,
+        "voltage": 216.4,
+        "current": 3.103,
+        "power": 671.4892000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:20:04.867661",
+      "anomaly_type": "POWER",
+      "value": 702.2152,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.2,
+        "humidity": 51,
+        "voltage": 216.8,
+        "current": 3.239,
+        "power": 702.2152
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:20:06.927417",
+      "anomaly_type": "POWER",
+      "value": 674.5582999999999,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.0,
+        "humidity": 51,
+        "voltage": 222.7,
+        "current": 3.029,
+        "power": 674.5582999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:20:08.983690",
+      "anomaly_type": "POWER",
+      "value": 704.8302,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.1,
+        "humidity": 51,
+        "voltage": 219.3,
+        "current": 3.214,
+        "power": 704.8302
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:20:11.032944",
+      "anomaly_type": "POWER",
+      "value": 738.948,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 21.0,
+        "humidity": 53,
+        "voltage": 228.0,
+        "current": 3.241,
+        "power": 738.948
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:20:13.087611",
+      "anomaly_type": "POWER",
+      "value": 708.0442,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.8,
+        "humidity": 49,
+        "voltage": 220.3,
+        "current": 3.214,
+        "power": 708.0442
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:20:15.142336",
+      "anomaly_type": "POWER",
+      "value": 733.7144,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 51,
+        "voltage": 221.8,
+        "current": 3.308,
+        "power": 733.7144
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:20:17.186718",
+      "anomaly_type": "POWER",
+      "value": 658.472,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 21.0,
+        "humidity": 50,
+        "voltage": 212.0,
+        "current": 3.106,
+        "power": 658.472
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:20:19.242900",
+      "anomaly_type": "POWER",
+      "value": 687.8816999999999,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 52,
+        "voltage": 227.7,
+        "current": 3.021,
+        "power": 687.8816999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:20:21.369673",
+      "anomaly_type": "POWER",
+      "value": 759.0291,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.3,
+        "humidity": 50,
+        "voltage": 225.7,
+        "current": 3.363,
+        "power": 759.0291
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:20:23.484325",
+      "anomaly_type": "POWER",
+      "value": 722.7,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.3,
+        "humidity": 53,
+        "voltage": 225.0,
+        "current": 3.212,
+        "power": 722.7
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:20:25.569023",
+      "anomaly_type": "POWER",
+      "value": 677.312,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.8,
+        "humidity": 51,
+        "voltage": 222.8,
+        "current": 3.04,
+        "power": 677.312
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:20:27.606615",
+      "anomaly_type": "POWER",
+      "value": 693.9209999999999,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.3,
+        "humidity": 49,
+        "voltage": 221.7,
+        "current": 3.13,
+        "power": 693.9209999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:20:29.641820",
+      "anomaly_type": "POWER",
+      "value": 694.9341,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.5,
+        "humidity": 50,
+        "voltage": 224.1,
+        "current": 3.101,
+        "power": 694.9341
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:20:31.688775",
+      "anomaly_type": "POWER",
+      "value": 767.379,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 52,
+        "voltage": 229.0,
+        "current": 3.351,
+        "power": 767.379
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:21:20.578912",
+      "anomaly_type": "POWER",
+      "value": 733.0154000000001,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.0,
+        "humidity": 50,
+        "voltage": 219.4,
+        "current": 3.341,
+        "power": 733.0154000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:21:32.849751",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.9,
+        "humidity": 50,
+        "voltage": 225.1,
+        "current": 3.099,
+        "power": 697.5849000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:21:32.949187",
+      "anomaly_type": "POWER",
+      "value": 697.5849000000001,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.9,
+        "humidity": 50,
+        "voltage": 225.1,
+        "current": 3.099,
+        "power": 697.5849000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:21:37.114199",
+      "anomaly_type": "POWER",
+      "value": 684.0404,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.9,
+        "humidity": 51,
+        "voltage": 216.4,
+        "current": 3.161,
+        "power": 684.0404
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:21:39.165698",
+      "anomaly_type": "POWER",
+      "value": 694.5578,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 49,
+        "voltage": 215.3,
+        "current": 3.226,
+        "power": 694.5578
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:21:41.226522",
+      "anomaly_type": "POWER",
+      "value": 679.9549,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 21.0,
+        "humidity": 50,
+        "voltage": 214.7,
+        "current": 3.167,
+        "power": 679.9549
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:21:43.299991",
+      "anomaly_type": "POWER",
+      "value": 725.7212000000001,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.9,
+        "humidity": 51,
+        "voltage": 225.8,
+        "current": 3.214,
+        "power": 725.7212000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:21:45.374525",
+      "anomaly_type": "POWER",
+      "value": 676.018,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 50,
+        "voltage": 218.0,
+        "current": 3.101,
+        "power": 676.018
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:21:47.423605",
+      "anomaly_type": "POWER",
+      "value": 695.607,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 50,
+        "voltage": 216.7,
+        "current": 3.21,
+        "power": 695.607
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:21:49.474193",
+      "anomaly_type": "POWER",
+      "value": 706.6109,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 52,
+        "voltage": 221.3,
+        "current": 3.193,
+        "power": 706.6109
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:21:51.541777",
+      "anomaly_type": "POWER",
+      "value": 712.0386,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.3,
+        "humidity": 51,
+        "voltage": 225.4,
+        "current": 3.159,
+        "power": 712.0386
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:21:53.599024",
+      "anomaly_type": "POWER",
+      "value": 716.165,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 52,
+        "voltage": 215.0,
+        "current": 3.331,
+        "power": 716.165
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:21:55.673554",
+      "anomaly_type": "POWER",
+      "value": 711.399,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.2,
+        "humidity": 50,
+        "voltage": 214.6,
+        "current": 3.315,
+        "power": 711.399
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:22:14.014562",
+      "anomaly_type": "HUMIDITY",
+      "value": 49,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.2,
+        "humidity": 49,
+        "voltage": 217.0,
+        "current": 3.345,
+        "power": 725.865
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:22:16.057476",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 50,
+        "voltage": 212.6,
+        "current": 3.354,
+        "power": 713.0604
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:22:16.079917",
+      "anomaly_type": "POWER",
+      "value": 713.0604,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 50,
+        "voltage": 212.6,
+        "current": 3.354,
+        "power": 713.0604
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:22:18.126980",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 50,
+        "voltage": 219.5,
+        "current": 3.314,
+        "power": 727.423
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:22:18.153593",
+      "anomaly_type": "POWER",
+      "value": 727.423,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 50,
+        "voltage": 219.5,
+        "current": 3.314,
+        "power": 727.423
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:22:20.228181",
+      "anomaly_type": "POWER",
+      "value": 729.4048,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.0,
+        "humidity": 53,
+        "voltage": 221.3,
+        "current": 3.296,
+        "power": 729.4048
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:22:22.320797",
+      "anomaly_type": "HUMIDITY",
+      "value": 49,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.3,
+        "humidity": 49,
+        "voltage": 225.0,
+        "current": 3.272,
+        "power": 736.1999999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:22:22.372579",
+      "anomaly_type": "POWER",
+      "value": 736.1999999999999,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.3,
+        "humidity": 49,
+        "voltage": 225.0,
+        "current": 3.272,
+        "power": 736.1999999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:22:26.438398",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 52,
+        "voltage": 223.1,
+        "current": 3.101,
+        "power": 691.8331
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:22:28.491647",
+      "anomaly_type": "HUMIDITY",
+      "value": 53,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.0,
+        "humidity": 53,
+        "voltage": 222.3,
+        "current": 3.002,
+        "power": 667.3446
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:22:48.895613",
+      "anomaly_type": "POWER",
+      "value": 658.5320999999999,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 51,
+        "voltage": 215.7,
+        "current": 3.053,
+        "power": 658.5320999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:22:50.953919",
+      "anomaly_type": "POWER",
+      "value": 662.5883,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.9,
+        "humidity": 50,
+        "voltage": 212.3,
+        "current": 3.121,
+        "power": 662.5883
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:22:53.007661",
+      "anomaly_type": "POWER",
+      "value": 680.4864000000001,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 51,
+        "voltage": 214.8,
+        "current": 3.168,
+        "power": 680.4864000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:22:57.091488",
+      "anomaly_type": "POWER",
+      "value": 695.1924,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.9,
+        "humidity": 49,
+        "voltage": 225.2,
+        "current": 3.087,
+        "power": 695.1924
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:23:09.321158",
+      "anomaly_type": "POWER",
+      "value": 675.864,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.3,
+        "humidity": 51,
+        "voltage": 223.5,
+        "current": 3.024,
+        "power": 675.864
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:23:11.359533",
+      "anomaly_type": "POWER",
+      "value": 706.6024,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.9,
+        "humidity": 51,
+        "voltage": 220.4,
+        "current": 3.206,
+        "power": 706.6024
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:23:19.503066",
+      "anomaly_type": "POWER",
+      "value": 762.2888,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 52,
+        "voltage": 226.4,
+        "current": 3.367,
+        "power": 762.2888
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:23:21.543073",
+      "anomaly_type": "POWER",
+      "value": 692.6542000000001,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.2,
+        "humidity": 52,
+        "voltage": 225.4,
+        "current": 3.073,
+        "power": 692.6542000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:23:23.615072",
+      "anomaly_type": "POWER",
+      "value": 691.3969999999999,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.1,
+        "humidity": 52,
+        "voltage": 229.7,
+        "current": 3.01,
+        "power": 691.3969999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:23:25.667620",
+      "anomaly_type": "POWER",
+      "value": 669.3123,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 52,
+        "voltage": 221.7,
+        "current": 3.019,
+        "power": 669.3123
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:23:27.723325",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 52,
+        "voltage": 212.9,
+        "current": 2.998,
+        "power": 638.2742000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:23:27.774250",
+      "anomaly_type": "POWER",
+      "value": 638.2742000000001,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 52,
+        "voltage": 212.9,
+        "current": 2.998,
+        "power": 638.2742000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:23:29.858739",
+      "anomaly_type": "POWER",
+      "value": 672.8022,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 51,
+        "voltage": 214.2,
+        "current": 3.141,
+        "power": 672.8022
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:23:31.958876",
+      "anomaly_type": "POWER",
+      "value": 698.172,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.5,
+        "humidity": 51,
+        "voltage": 219.0,
+        "current": 3.188,
+        "power": 698.172
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:23:34.031564",
+      "anomaly_type": "POWER",
+      "value": 757.4527999999999,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.3,
+        "humidity": 51,
+        "voltage": 227.6,
+        "current": 3.328,
+        "power": 757.4527999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:23:36.079110",
+      "anomaly_type": "POWER",
+      "value": 687.5568000000001,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.0,
+        "humidity": 51,
+        "voltage": 215.4,
+        "current": 3.192,
+        "power": 687.5568000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:23:38.117762",
+      "anomaly_type": "POWER",
+      "value": 685.252,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.1,
+        "humidity": 53,
+        "voltage": 210.2,
+        "current": 3.26,
+        "power": 685.252
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:23:40.179872",
+      "anomaly_type": "POWER",
+      "value": 658.5981,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.0,
+        "humidity": 52,
+        "voltage": 213.9,
+        "current": 3.079,
+        "power": 658.5981
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:23:42.261178",
+      "anomaly_type": "POWER",
+      "value": 684.4992,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 49,
+        "voltage": 211.2,
+        "current": 3.241,
+        "power": 684.4992
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:23:44.349309",
+      "anomaly_type": "POWER",
+      "value": 682.9757999999999,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.0,
+        "humidity": 51,
+        "voltage": 210.6,
+        "current": 3.243,
+        "power": 682.9757999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:23:46.408557",
+      "anomaly_type": "POWER",
+      "value": 684.2592000000001,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.0,
+        "humidity": 52,
+        "voltage": 220.8,
+        "current": 3.099,
+        "power": 684.2592000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:23:48.509871",
+      "anomaly_type": "POWER",
+      "value": 706.5500000000001,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.3,
+        "humidity": 51,
+        "voltage": 217.4,
+        "current": 3.25,
+        "power": 706.5500000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:23:50.622313",
+      "anomaly_type": "HUMIDITY",
+      "value": 53,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.1,
+        "humidity": 53,
+        "voltage": 225.6,
+        "current": 3.034,
+        "power": 684.4703999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:23:50.669283",
+      "anomaly_type": "POWER",
+      "value": 684.4703999999999,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.1,
+        "humidity": 53,
+        "voltage": 225.6,
+        "current": 3.034,
+        "power": 684.4703999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:23:52.706485",
+      "anomaly_type": "HUMIDITY",
+      "value": 51,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 51,
+        "voltage": 218.1,
+        "current": 3.041,
+        "power": 663.2420999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:23:52.740130",
+      "anomaly_type": "POWER",
+      "value": 663.2420999999999,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 51,
+        "voltage": 218.1,
+        "current": 3.041,
+        "power": 663.2420999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:23:54.796457",
+      "anomaly_type": "HUMIDITY",
+      "value": 51,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 51,
+        "voltage": 210.7,
+        "current": 3.143,
+        "power": 662.2300999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:23:54.838514",
+      "anomaly_type": "POWER",
+      "value": 662.2300999999999,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 51,
+        "voltage": 210.7,
+        "current": 3.143,
+        "power": 662.2300999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:23:56.893392",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.5,
+        "humidity": 52,
+        "voltage": 227.5,
+        "current": 3.082,
+        "power": 701.155
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:23:56.935602",
+      "anomaly_type": "POWER",
+      "value": 701.155,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.5,
+        "humidity": 52,
+        "voltage": 227.5,
+        "current": 3.082,
+        "power": 701.155
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:23:59.001200",
+      "anomaly_type": "HUMIDITY",
+      "value": 53,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.8,
+        "humidity": 53,
+        "voltage": 211.8,
+        "current": 2.995,
+        "power": 634.341
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:23:59.021209",
+      "anomaly_type": "POWER",
+      "value": 634.341,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.8,
+        "humidity": 53,
+        "voltage": 211.8,
+        "current": 2.995,
+        "power": 634.341
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:24:01.071689",
+      "anomaly_type": "HUMIDITY",
+      "value": 51,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 51,
+        "voltage": 226.0,
+        "current": 3.352,
+        "power": 757.552
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:24:01.102801",
+      "anomaly_type": "POWER",
+      "value": 757.552,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 51,
+        "voltage": 226.0,
+        "current": 3.352,
+        "power": 757.552
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:24:03.150997",
+      "anomaly_type": "HUMIDITY",
+      "value": 53,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 53,
+        "voltage": 213.0,
+        "current": 3.326,
+        "power": 708.438
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:24:03.200847",
+      "anomaly_type": "POWER",
+      "value": 708.438,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 53,
+        "voltage": 213.0,
+        "current": 3.326,
+        "power": 708.438
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:24:05.234751",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.5,
+        "humidity": 52,
+        "voltage": 223.8,
+        "current": 3.009,
+        "power": 673.4142
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:24:05.263732",
+      "anomaly_type": "POWER",
+      "value": 673.4142,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.5,
+        "humidity": 52,
+        "voltage": 223.8,
+        "current": 3.009,
+        "power": 673.4142
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:24:07.325878",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.3,
+        "humidity": 52,
+        "voltage": 212.6,
+        "current": 3.138,
+        "power": 667.1388
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:24:07.349250",
+      "anomaly_type": "POWER",
+      "value": 667.1388,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.3,
+        "humidity": 52,
+        "voltage": 212.6,
+        "current": 3.138,
+        "power": 667.1388
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:24:09.400227",
+      "anomaly_type": "HUMIDITY",
+      "value": 51,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 51,
+        "voltage": 223.9,
+        "current": 3.132,
+        "power": 701.2548
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:24:09.425515",
+      "anomaly_type": "POWER",
+      "value": 701.2548,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 51,
+        "voltage": 223.9,
+        "current": 3.132,
+        "power": 701.2548
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:24:11.465668",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 52,
+        "voltage": 219.9,
+        "current": 3.328,
+        "power": 731.8272
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:24:11.498649",
+      "anomaly_type": "POWER",
+      "value": 731.8272,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 52,
+        "voltage": 219.9,
+        "current": 3.328,
+        "power": 731.8272
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:24:13.554632",
+      "anomaly_type": "POWER",
+      "value": 678.4065999999999,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.2,
+        "humidity": 50,
+        "voltage": 212.6,
+        "current": 3.191,
+        "power": 678.4065999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:24:15.617885",
+      "anomaly_type": "POWER",
+      "value": 666.6256,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.1,
+        "humidity": 52,
+        "voltage": 223.4,
+        "current": 2.984,
+        "power": 666.6256
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:24:17.696500",
+      "anomaly_type": "POWER",
+      "value": 693.0441,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.9,
+        "humidity": 49,
+        "voltage": 215.7,
+        "current": 3.213,
+        "power": 693.0441
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:24:19.770073",
+      "anomaly_type": "POWER",
+      "value": 707.1966,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 51,
+        "voltage": 210.1,
+        "current": 3.366,
+        "power": 707.1966
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:24:21.808756",
+      "anomaly_type": "POWER",
+      "value": 751.0728,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.2,
+        "humidity": 52,
+        "voltage": 223.8,
+        "current": 3.356,
+        "power": 751.0728
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:24:23.860057",
+      "anomaly_type": "POWER",
+      "value": 727.4526,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 52,
+        "voltage": 227.4,
+        "current": 3.199,
+        "power": 727.4526
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:24:52.318134",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 52,
+        "voltage": 224.5,
+        "current": 3.246,
+        "power": 728.727
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:24:54.397830",
+      "anomaly_type": "HUMIDITY",
+      "value": 49,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 49,
+        "voltage": 222.9,
+        "current": 3.139,
+        "power": 699.6831
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:24:56.462318",
+      "anomaly_type": "HUMIDITY",
+      "value": 53,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 53,
+        "voltage": 214.6,
+        "current": 3.121,
+        "power": 669.7665999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:24:58.547963",
+      "anomaly_type": "HUMIDITY",
+      "value": 53,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 53,
+        "voltage": 226.1,
+        "current": 3.237,
+        "power": 731.8857
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:25:00.614834",
+      "anomaly_type": "HUMIDITY",
+      "value": 49,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 49,
+        "voltage": 210.8,
+        "current": 3.093,
+        "power": 652.0044
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:25:02.692378",
+      "anomaly_type": "HUMIDITY",
+      "value": 49,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 49,
+        "voltage": 213.2,
+        "current": 2.984,
+        "power": 636.1888
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:25:04.738562",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.8,
+        "humidity": 50,
+        "voltage": 227.2,
+        "current": 3.044,
+        "power": 691.5968
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:25:06.809486",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.2,
+        "humidity": 52,
+        "voltage": 227.5,
+        "current": 3.299,
+        "power": 750.5225
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:25:08.863675",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.9,
+        "humidity": 52,
+        "voltage": 224.8,
+        "current": 3.204,
+        "power": 720.2592000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:25:10.927517",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.2,
+        "humidity": 52,
+        "voltage": 226.4,
+        "current": 3.007,
+        "power": 680.7848
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:25:12.997648",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.0,
+        "humidity": 50,
+        "voltage": 215.2,
+        "current": 3.057,
+        "power": 657.8664
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:25:15.075414",
+      "anomaly_type": "HUMIDITY",
+      "value": 51,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.5,
+        "humidity": 51,
+        "voltage": 218.6,
+        "current": 3.095,
+        "power": 676.567
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:25:17.133754",
+      "anomaly_type": "HUMIDITY",
+      "value": 51,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.1,
+        "humidity": 51,
+        "voltage": 217.7,
+        "current": 3.041,
+        "power": 662.0256999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:25:19.186837",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 50,
+        "voltage": 228.0,
+        "current": 3.119,
+        "power": 711.1320000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:25:21.239425",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.3,
+        "humidity": 52,
+        "voltage": 224.4,
+        "current": 3.161,
+        "power": 709.3284
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:25:23.319093",
+      "anomaly_type": "HUMIDITY",
+      "value": 51,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.3,
+        "humidity": 51,
+        "voltage": 213.5,
+        "current": 3.298,
+        "power": 704.123
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:25:39.574266",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.5,
+        "humidity": 50,
+        "voltage": 217.7,
+        "current": 3.148,
+        "power": 685.3196
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:25:39.621832",
+      "anomaly_type": "POWER",
+      "value": 685.3196,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.5,
+        "humidity": 50,
+        "voltage": 217.7,
+        "current": 3.148,
+        "power": 685.3196
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:25:41.698615",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.0,
+        "humidity": 52,
+        "voltage": 210.5,
+        "current": 3.278,
+        "power": 690.019
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:25:43.791010",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.8,
+        "humidity": 52,
+        "voltage": 217.4,
+        "current": 3.146,
+        "power": 683.9404
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:25:47.895297",
+      "anomaly_type": "HUMIDITY",
+      "value": 49,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.0,
+        "humidity": 49,
+        "voltage": 211.5,
+        "current": 3.088,
+        "power": 653.112
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:25:47.928211",
+      "anomaly_type": "POWER",
+      "value": 653.112,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.0,
+        "humidity": 49,
+        "voltage": 211.5,
+        "current": 3.088,
+        "power": 653.112
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:25:58.103960",
+      "anomaly_type": "POWER",
+      "value": 752.864,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.9,
+        "humidity": 51,
+        "voltage": 224.0,
+        "current": 3.361,
+        "power": 752.864
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:26:00.136821",
+      "anomaly_type": "POWER",
+      "value": 675.1320000000001,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.2,
+        "humidity": 50,
+        "voltage": 221.5,
+        "current": 3.048,
+        "power": 675.1320000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:26:12.420394",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.5,
+        "humidity": 50,
+        "voltage": 227.4,
+        "current": 3.152,
+        "power": 716.7648
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:26:26.748559",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.8,
+        "humidity": 52,
+        "voltage": 227.7,
+        "current": 3.236,
+        "power": 736.8372
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:26:32.879278",
+      "anomaly_type": "HUMIDITY",
+      "value": 49,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.8,
+        "humidity": 49,
+        "voltage": 220.3,
+        "current": 3.122,
+        "power": 687.7766
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:26:49.151589",
+      "anomaly_type": "POWER",
+      "value": 647.7570000000001,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.2,
+        "humidity": 50,
+        "voltage": 218.1,
+        "current": 2.97,
+        "power": 647.7570000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:26:51.225886",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.1,
+        "humidity": 52,
+        "voltage": 227.3,
+        "current": 3.242,
+        "power": 736.9066
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:26:51.274460",
+      "anomaly_type": "POWER",
+      "value": 736.9066,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.1,
+        "humidity": 52,
+        "voltage": 227.3,
+        "current": 3.242,
+        "power": 736.9066
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:26:53.329457",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 52,
+        "voltage": 223.8,
+        "current": 3.046,
+        "power": 681.6948
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:26:53.357456",
+      "anomaly_type": "POWER",
+      "value": 681.6948,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 52,
+        "voltage": 223.8,
+        "current": 3.046,
+        "power": 681.6948
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:26:55.403645",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 50,
+        "voltage": 216.1,
+        "current": 3.159,
+        "power": 682.6599
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:26:55.440558",
+      "anomaly_type": "POWER",
+      "value": 682.6599,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 50,
+        "voltage": 216.1,
+        "current": 3.159,
+        "power": 682.6599
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:26:57.494986",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.3,
+        "humidity": 52,
+        "voltage": 215.7,
+        "current": 3.363,
+        "power": 725.3991
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:26:59.551583",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.2,
+        "humidity": 52,
+        "voltage": 224.9,
+        "current": 3.19,
+        "power": 717.431
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:26:59.571768",
+      "anomaly_type": "POWER",
+      "value": 717.431,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.2,
+        "humidity": 52,
+        "voltage": 224.9,
+        "current": 3.19,
+        "power": 717.431
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:27:01.619099",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 50,
+        "voltage": 221.8,
+        "current": 3.164,
+        "power": 701.7752
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:27:01.645339",
+      "anomaly_type": "POWER",
+      "value": 701.7752,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 50,
+        "voltage": 221.8,
+        "current": 3.164,
+        "power": 701.7752
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:27:03.703510",
+      "anomaly_type": "HUMIDITY",
+      "value": 51,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.3,
+        "humidity": 51,
+        "voltage": 229.8,
+        "current": 3.261,
+        "power": 749.3778000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:27:05.823203",
+      "anomaly_type": "HUMIDITY",
+      "value": 51,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 19.9,
+        "humidity": 51,
+        "voltage": 225.2,
+        "current": 3.09,
+        "power": 695.8679999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:27:07.987371",
+      "anomaly_type": "HUMIDITY",
+      "value": 51,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.2,
+        "humidity": 51,
+        "voltage": 218.5,
+        "current": 3.013,
+        "power": 658.3405
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:27:08.088164",
+      "anomaly_type": "POWER",
+      "value": 658.3405,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.2,
+        "humidity": 51,
+        "voltage": 218.5,
+        "current": 3.013,
+        "power": 658.3405
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:27:10.233487",
+      "anomaly_type": "HUMIDITY",
+      "value": 51,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.9,
+        "humidity": 51,
+        "voltage": 229.1,
+        "current": 3.165,
+        "power": 725.1015
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:27:10.309004",
+      "anomaly_type": "POWER",
+      "value": 725.1015,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.9,
+        "humidity": 51,
+        "voltage": 229.1,
+        "current": 3.165,
+        "power": 725.1015
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:27:12.455280",
+      "anomaly_type": "HUMIDITY",
+      "value": 51,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.2,
+        "humidity": 51,
+        "voltage": 218.3,
+        "current": 3.245,
+        "power": 708.3835
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:27:14.609982",
+      "anomaly_type": "HUMIDITY",
+      "value": 51,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.8,
+        "humidity": 51,
+        "voltage": 223.8,
+        "current": 3.089,
+        "power": 691.3182
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:27:16.775744",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.5,
+        "humidity": 50,
+        "voltage": 216.3,
+        "current": 3.132,
+        "power": 677.4516000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:27:18.927823",
+      "anomaly_type": "HUMIDITY",
+      "value": 49,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.3,
+        "humidity": 49,
+        "voltage": 222.8,
+        "current": 2.991,
+        "power": 666.3948
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:27:21.159208",
+      "anomaly_type": "HUMIDITY",
+      "value": 49,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.8,
+        "humidity": 49,
+        "voltage": 214.3,
+        "current": 3.038,
+        "power": 651.0434
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:27:21.266491",
+      "anomaly_type": "POWER",
+      "value": 651.0434,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.8,
+        "humidity": 49,
+        "voltage": 214.3,
+        "current": 3.038,
+        "power": 651.0434
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:28:09.494865",
+      "anomaly_type": "HUMIDITY",
+      "value": 93.0,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.5,
+        "humidity": 93.0,
+        "voltage": 226.8,
+        "current": 3.238,
+        "power": 734.3784
+      },
+      "severity": "HIGH"
+    },
+    {
+      "timestamp": "2025-06-30T16:28:10.121864",
+      "anomaly_type": "POWER",
+      "value": 734.3784,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.5,
+        "humidity": 93.0,
+        "voltage": 226.8,
+        "current": 3.238,
+        "power": 734.3784
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:28:12.595997",
+      "anomaly_type": "HUMIDITY",
+      "value": 51,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.1,
+        "humidity": 51,
+        "voltage": 229.0,
+        "current": 3.319,
+        "power": 760.051
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:28:14.687694",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.0,
+        "humidity": 50,
+        "voltage": 224.3,
+        "current": 2.959,
+        "power": 663.7037
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:28:16.813076",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.5,
+        "humidity": 52,
+        "voltage": 222.0,
+        "current": 3.308,
+        "power": 734.376
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:28:18.936041",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.2,
+        "humidity": 52,
+        "voltage": 222.2,
+        "current": 3.336,
+        "power": 741.2592
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:28:21.153956",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 50,
+        "voltage": 227.9,
+        "current": 3.334,
+        "power": 759.8186000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:28:21.286040",
+      "anomaly_type": "POWER",
+      "value": 759.8186000000001,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 50,
+        "voltage": 227.9,
+        "current": 3.334,
+        "power": 759.8186000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:28:23.617222",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.2,
+        "humidity": 50,
+        "voltage": 217.2,
+        "current": 2.989,
+        "power": 649.2108
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:28:23.793620",
+      "anomaly_type": "POWER",
+      "value": 649.2108,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.2,
+        "humidity": 50,
+        "voltage": 217.2,
+        "current": 2.989,
+        "power": 649.2108
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:28:25.889751",
+      "anomaly_type": "HUMIDITY",
+      "value": 53,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 53,
+        "voltage": 223.6,
+        "current": 3.254,
+        "power": 727.5944
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:28:25.970436",
+      "anomaly_type": "POWER",
+      "value": 727.5944,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 53,
+        "voltage": 223.6,
+        "current": 3.254,
+        "power": 727.5944
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:28:28.100996",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.2,
+        "humidity": 50,
+        "voltage": 222.5,
+        "current": 3.056,
+        "power": 679.96
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:28:28.182869",
+      "anomaly_type": "POWER",
+      "value": 679.96,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.2,
+        "humidity": 50,
+        "voltage": 222.5,
+        "current": 3.056,
+        "power": 679.96
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:28:30.311575",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.9,
+        "humidity": 52,
+        "voltage": 217.9,
+        "current": 3.092,
+        "power": 673.7468
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:28:30.413686",
+      "anomaly_type": "POWER",
+      "value": 673.7468,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.9,
+        "humidity": 52,
+        "voltage": 217.9,
+        "current": 3.092,
+        "power": 673.7468
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:28:32.549644",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.0,
+        "humidity": 50,
+        "voltage": 212.6,
+        "current": 3.201,
+        "power": 680.5326
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:28:32.645184",
+      "anomaly_type": "POWER",
+      "value": 680.5326,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.0,
+        "humidity": 50,
+        "voltage": 212.6,
+        "current": 3.201,
+        "power": 680.5326
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:28:34.778451",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 52,
+        "voltage": 227.6,
+        "current": 3.068,
+        "power": 698.2768
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:28:34.888273",
+      "anomaly_type": "POWER",
+      "value": 698.2768,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 52,
+        "voltage": 227.6,
+        "current": 3.068,
+        "power": 698.2768
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:28:37.067831",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 52,
+        "voltage": 225.2,
+        "current": 3.007,
+        "power": 677.1764
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:28:37.145640",
+      "anomaly_type": "POWER",
+      "value": 677.1764,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 52,
+        "voltage": 225.2,
+        "current": 3.007,
+        "power": 677.1764
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:28:39.301415",
+      "anomaly_type": "HUMIDITY",
+      "value": 51,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.0,
+        "humidity": 51,
+        "voltage": 228.8,
+        "current": 3.124,
+        "power": 714.7712
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:28:39.945665",
+      "anomaly_type": "POWER",
+      "value": 714.7712,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.0,
+        "humidity": 51,
+        "voltage": 228.8,
+        "current": 3.124,
+        "power": 714.7712
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:28:42.221060",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.3,
+        "humidity": 50,
+        "voltage": 224.9,
+        "current": 3.29,
+        "power": 739.921
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:28:42.294536",
+      "anomaly_type": "POWER",
+      "value": 739.921,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.3,
+        "humidity": 50,
+        "voltage": 224.9,
+        "current": 3.29,
+        "power": 739.921
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:28:44.413694",
+      "anomaly_type": "HUMIDITY",
+      "value": 51,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.2,
+        "humidity": 51,
+        "voltage": 217.0,
+        "current": 3.105,
+        "power": 673.785
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:28:44.517787",
+      "anomaly_type": "POWER",
+      "value": 673.785,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.2,
+        "humidity": 51,
+        "voltage": 217.0,
+        "current": 3.105,
+        "power": 673.785
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:28:46.625408",
+      "anomaly_type": "HUMIDITY",
+      "value": 51,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 51,
+        "voltage": 229.1,
+        "current": 3.236,
+        "power": 741.3676
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:28:46.727262",
+      "anomaly_type": "POWER",
+      "value": 741.3676,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 51,
+        "voltage": 229.1,
+        "current": 3.236,
+        "power": 741.3676
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:28:48.888082",
+      "anomaly_type": "HUMIDITY",
+      "value": 53,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.3,
+        "humidity": 53,
+        "voltage": 224.9,
+        "current": 3.096,
+        "power": 696.2904000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:28:49.004232",
+      "anomaly_type": "POWER",
+      "value": 696.2904000000001,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.3,
+        "humidity": 53,
+        "voltage": 224.9,
+        "current": 3.096,
+        "power": 696.2904000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:28:51.152250",
+      "anomaly_type": "HUMIDITY",
+      "value": 51,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 51,
+        "voltage": 211.7,
+        "current": 3.133,
+        "power": 663.2561
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:28:51.257930",
+      "anomaly_type": "POWER",
+      "value": 663.2561,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 51,
+        "voltage": 211.7,
+        "current": 3.133,
+        "power": 663.2561
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:28:53.394569",
+      "anomaly_type": "HUMIDITY",
+      "value": 49,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.2,
+        "humidity": 49,
+        "voltage": 227.9,
+        "current": 3.325,
+        "power": 757.7675
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:28:53.506910",
+      "anomaly_type": "POWER",
+      "value": 757.7675,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.2,
+        "humidity": 49,
+        "voltage": 227.9,
+        "current": 3.325,
+        "power": 757.7675
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:28:55.642941",
+      "anomaly_type": "HUMIDITY",
+      "value": 51,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 19.9,
+        "humidity": 51,
+        "voltage": 223.8,
+        "current": 3.017,
+        "power": 675.2046
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:28:55.709574",
+      "anomaly_type": "POWER",
+      "value": 675.2046,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 19.9,
+        "humidity": 51,
+        "voltage": 223.8,
+        "current": 3.017,
+        "power": 675.2046
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:28:57.825477",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.3,
+        "humidity": 50,
+        "voltage": 218.5,
+        "current": 3.123,
+        "power": 682.3755000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:28:57.918841",
+      "anomaly_type": "POWER",
+      "value": 682.3755000000001,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.3,
+        "humidity": 50,
+        "voltage": 218.5,
+        "current": 3.123,
+        "power": 682.3755000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:29:00.063426",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.1,
+        "humidity": 52,
+        "voltage": 229.1,
+        "current": 3.343,
+        "power": 765.8813
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:29:00.155356",
+      "anomaly_type": "POWER",
+      "value": 765.8813,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.1,
+        "humidity": 52,
+        "voltage": 229.1,
+        "current": 3.343,
+        "power": 765.8813
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:29:02.284548",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.5,
+        "humidity": 50,
+        "voltage": 227.8,
+        "current": 3.181,
+        "power": 724.6318
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:29:02.380451",
+      "anomaly_type": "POWER",
+      "value": 724.6318,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.5,
+        "humidity": 50,
+        "voltage": 227.8,
+        "current": 3.181,
+        "power": 724.6318
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:29:04.518719",
+      "anomaly_type": "POWER",
+      "value": 688.788,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.3,
+        "humidity": 51,
+        "voltage": 216.6,
+        "current": 3.18,
+        "power": 688.788
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:29:06.734603",
+      "anomaly_type": "POWER",
+      "value": 767.5527999999999,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.2,
+        "humidity": 49,
+        "voltage": 229.6,
+        "current": 3.343,
+        "power": 767.5527999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:29:08.893669",
+      "anomaly_type": "POWER",
+      "value": 691.4487999999999,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.8,
+        "humidity": 52,
+        "voltage": 227.6,
+        "current": 3.038,
+        "power": 691.4487999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:29:11.030538",
+      "anomaly_type": "POWER",
+      "value": 664.5905,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.8,
+        "humidity": 49,
+        "voltage": 221.9,
+        "current": 2.995,
+        "power": 664.5905
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:29:13.174245",
+      "anomaly_type": "POWER",
+      "value": 689.9458999999999,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.0,
+        "humidity": 52,
+        "voltage": 219.1,
+        "current": 3.149,
+        "power": 689.9458999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:29:15.330973",
+      "anomaly_type": "POWER",
+      "value": 707.6351999999999,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 52,
+        "voltage": 217.6,
+        "current": 3.252,
+        "power": 707.6351999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:29:17.472635",
+      "anomaly_type": "POWER",
+      "value": 693.4318000000001,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 50,
+        "voltage": 225.8,
+        "current": 3.071,
+        "power": 693.4318000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:29:19.608291",
+      "anomaly_type": "POWER",
+      "value": 712.125,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.1,
+        "humidity": 52,
+        "voltage": 225.0,
+        "current": 3.165,
+        "power": 712.125
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:29:21.749238",
+      "anomaly_type": "POWER",
+      "value": 726.1617,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.1,
+        "humidity": 52,
+        "voltage": 216.7,
+        "current": 3.351,
+        "power": 726.1617
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:29:23.909729",
+      "anomaly_type": "POWER",
+      "value": 678.3154,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.9,
+        "humidity": 50,
+        "voltage": 210.2,
+        "current": 3.227,
+        "power": 678.3154
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:29:26.064031",
+      "anomaly_type": "POWER",
+      "value": 726.3255,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.5,
+        "humidity": 51,
+        "voltage": 219.5,
+        "current": 3.309,
+        "power": 726.3255
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:29:28.208729",
+      "anomaly_type": "POWER",
+      "value": 685.7956,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.8,
+        "humidity": 52,
+        "voltage": 211.6,
+        "current": 3.241,
+        "power": 685.7956
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:29:30.331329",
+      "anomaly_type": "POWER",
+      "value": 740.2737999999999,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.2,
+        "humidity": 51,
+        "voltage": 229.4,
+        "current": 3.227,
+        "power": 740.2737999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:29:32.478476",
+      "anomaly_type": "POWER",
+      "value": 698.9354999999999,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.3,
+        "humidity": 50,
+        "voltage": 225.1,
+        "current": 3.105,
+        "power": 698.9354999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:29:34.600340",
+      "anomaly_type": "POWER",
+      "value": 675.8048000000001,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.2,
+        "humidity": 49,
+        "voltage": 210.4,
+        "current": 3.212,
+        "power": 675.8048000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:29:36.727686",
+      "anomaly_type": "POWER",
+      "value": 755.842,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.1,
+        "humidity": 53,
+        "voltage": 226.3,
+        "current": 3.34,
+        "power": 755.842
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:29:38.848141",
+      "anomaly_type": "POWER",
+      "value": 664.7244,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.1,
+        "humidity": 50,
+        "voltage": 215.4,
+        "current": 3.086,
+        "power": 664.7244
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:29:40.948202",
+      "anomaly_type": "TEMPERATURE",
+      "value": 20.8,
+      "unit": "\u00b0C",
+      "sensor_data": {
+        "temperature": 20.8,
+        "humidity": 52,
+        "voltage": 225.6,
+        "current": 3.227,
+        "power": 728.0111999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:29:41.044714",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.8,
+        "humidity": 52,
+        "voltage": 225.6,
+        "current": 3.227,
+        "power": 728.0111999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:29:41.135437",
+      "anomaly_type": "POWER",
+      "value": 728.0111999999999,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.8,
+        "humidity": 52,
+        "voltage": 225.6,
+        "current": 3.227,
+        "power": 728.0111999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:29:43.262342",
+      "anomaly_type": "HUMIDITY",
+      "value": 53,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.1,
+        "humidity": 53,
+        "voltage": 211.4,
+        "current": 3.289,
+        "power": 695.2946000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:29:43.346523",
+      "anomaly_type": "POWER",
+      "value": 695.2946000000001,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.1,
+        "humidity": 53,
+        "voltage": 211.4,
+        "current": 3.289,
+        "power": 695.2946000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:29:45.465708",
+      "anomaly_type": "POWER",
+      "value": 709.2105,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.2,
+        "humidity": 51,
+        "voltage": 215.5,
+        "current": 3.291,
+        "power": 709.2105
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:29:47.587250",
+      "anomaly_type": "TEMPERATURE",
+      "value": 20.9,
+      "unit": "\u00b0C",
+      "sensor_data": {
+        "temperature": 20.9,
+        "humidity": 51,
+        "voltage": 214.0,
+        "current": 3.251,
+        "power": 695.7139999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:29:47.672431",
+      "anomaly_type": "POWER",
+      "value": 695.7139999999999,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.9,
+        "humidity": 51,
+        "voltage": 214.0,
+        "current": 3.251,
+        "power": 695.7139999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:29:49.792254",
+      "anomaly_type": "TEMPERATURE",
+      "value": 20.5,
+      "unit": "\u00b0C",
+      "sensor_data": {
+        "temperature": 20.5,
+        "humidity": 52,
+        "voltage": 216.4,
+        "current": 3.22,
+        "power": 696.8080000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:29:49.897335",
+      "anomaly_type": "POWER",
+      "value": 696.8080000000001,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.5,
+        "humidity": 52,
+        "voltage": 216.4,
+        "current": 3.22,
+        "power": 696.8080000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:29:51.991855",
+      "anomaly_type": "TEMPERATURE",
+      "value": 20.4,
+      "unit": "\u00b0C",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 52,
+        "voltage": 210.5,
+        "current": 3.124,
+        "power": 657.602
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:29:52.106734",
+      "anomaly_type": "POWER",
+      "value": 657.602,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 52,
+        "voltage": 210.5,
+        "current": 3.124,
+        "power": 657.602
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:29:54.236985",
+      "anomaly_type": "TEMPERATURE",
+      "value": 20.4,
+      "unit": "\u00b0C",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 49,
+        "voltage": 221.7,
+        "current": 3.289,
+        "power": 729.1713
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:29:54.357362",
+      "anomaly_type": "POWER",
+      "value": 729.1713,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 49,
+        "voltage": 221.7,
+        "current": 3.289,
+        "power": 729.1713
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:30:00.582245",
+      "anomaly_type": "HUMIDITY",
+      "value": 49,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.2,
+        "humidity": 49,
+        "voltage": 227.2,
+        "current": 3.293,
+        "power": 748.1696
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:30:02.748347",
+      "anomaly_type": "HUMIDITY",
+      "value": 49,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.5,
+        "humidity": 49,
+        "voltage": 212.7,
+        "current": 3.1,
+        "power": 659.37
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:30:04.892986",
+      "anomaly_type": "HUMIDITY",
+      "value": 51,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 51,
+        "voltage": 221.1,
+        "current": 3.238,
+        "power": 715.9218
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:30:23.518607",
+      "anomaly_type": "HUMIDITY",
+      "value": 49,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 19.9,
+        "humidity": 49,
+        "voltage": 216.8,
+        "current": 3.349,
+        "power": 726.0632
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:30:33.864267",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.3,
+        "humidity": 52,
+        "voltage": 220.1,
+        "current": 3.007,
+        "power": 661.8407
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:30:33.954154",
+      "anomaly_type": "POWER",
+      "value": 661.8407,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.3,
+        "humidity": 52,
+        "voltage": 220.1,
+        "current": 3.007,
+        "power": 661.8407
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:30:36.073555",
+      "anomaly_type": "HUMIDITY",
+      "value": 53,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.8,
+        "humidity": 53,
+        "voltage": 223.3,
+        "current": 2.963,
+        "power": 661.6379000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:30:36.150188",
+      "anomaly_type": "POWER",
+      "value": 661.6379000000001,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.8,
+        "humidity": 53,
+        "voltage": 223.3,
+        "current": 2.963,
+        "power": 661.6379000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:30:38.254681",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.8,
+        "humidity": 50,
+        "voltage": 215.4,
+        "current": 2.998,
+        "power": 645.7692000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:30:38.344336",
+      "anomaly_type": "POWER",
+      "value": 645.7692000000001,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.8,
+        "humidity": 50,
+        "voltage": 215.4,
+        "current": 2.998,
+        "power": 645.7692000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:30:40.515137",
+      "anomaly_type": "HUMIDITY",
+      "value": 51,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 51,
+        "voltage": 218.8,
+        "current": 3.109,
+        "power": 680.2492000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:30:40.589609",
+      "anomaly_type": "POWER",
+      "value": 680.2492000000001,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 51,
+        "voltage": 218.8,
+        "current": 3.109,
+        "power": 680.2492000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:30:42.714314",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.1,
+        "humidity": 52,
+        "voltage": 214.6,
+        "current": 3.3,
+        "power": 708.18
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:30:42.828935",
+      "anomaly_type": "POWER",
+      "value": 708.18,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.1,
+        "humidity": 52,
+        "voltage": 214.6,
+        "current": 3.3,
+        "power": 708.18
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:30:44.951999",
+      "anomaly_type": "POWER",
+      "value": 708.8584,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 19.9,
+        "humidity": 50,
+        "voltage": 226.4,
+        "current": 3.131,
+        "power": 708.8584
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:30:47.088671",
+      "anomaly_type": "POWER",
+      "value": 699.3664,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 51,
+        "voltage": 217.6,
+        "current": 3.214,
+        "power": 699.3664
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:30:49.197471",
+      "anomaly_type": "POWER",
+      "value": 654.3841,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 19.9,
+        "humidity": 49,
+        "voltage": 221.3,
+        "current": 2.957,
+        "power": 654.3841
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:30:51.326841",
+      "anomaly_type": "POWER",
+      "value": 740.952,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.8,
+        "humidity": 51,
+        "voltage": 225.9,
+        "current": 3.28,
+        "power": 740.952
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:30:53.464556",
+      "anomaly_type": "POWER",
+      "value": 746.1576,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.9,
+        "humidity": 49,
+        "voltage": 223.2,
+        "current": 3.343,
+        "power": 746.1576
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:30:55.620593",
+      "anomaly_type": "POWER",
+      "value": 734.7354,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.1,
+        "humidity": 50,
+        "voltage": 223.8,
+        "current": 3.283,
+        "power": 734.7354
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:30:57.754112",
+      "anomaly_type": "POWER",
+      "value": 649.5048,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 50,
+        "voltage": 210.4,
+        "current": 3.087,
+        "power": 649.5048
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:30:59.905160",
+      "anomaly_type": "POWER",
+      "value": 723.3050999999999,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.2,
+        "humidity": 52,
+        "voltage": 228.1,
+        "current": 3.171,
+        "power": 723.3050999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:31:02.057296",
+      "anomaly_type": "POWER",
+      "value": 669.8094,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.2,
+        "humidity": 52,
+        "voltage": 217.4,
+        "current": 3.081,
+        "power": 669.8094
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:31:04.195830",
+      "anomaly_type": "POWER",
+      "value": 692.9526,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 52,
+        "voltage": 226.9,
+        "current": 3.054,
+        "power": 692.9526
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:31:06.314177",
+      "anomaly_type": "POWER",
+      "value": 703.2047,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.8,
+        "humidity": 50,
+        "voltage": 210.1,
+        "current": 3.347,
+        "power": 703.2047
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:31:10.572763",
+      "anomaly_type": "POWER",
+      "value": 731.9450999999999,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 51,
+        "voltage": 225.7,
+        "current": 3.243,
+        "power": 731.9450999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:31:14.764384",
+      "anomaly_type": "POWER",
+      "value": 649.2835,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 49,
+        "voltage": 216.5,
+        "current": 2.999,
+        "power": 649.2835
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:31:25.139332",
+      "anomaly_type": "POWER",
+      "value": 637.8876,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.1,
+        "humidity": 49,
+        "voltage": 214.2,
+        "current": 2.978,
+        "power": 637.8876
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:31:27.276737",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 50,
+        "voltage": 216.6,
+        "current": 3.237,
+        "power": 701.1342
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:31:29.420143",
+      "anomaly_type": "HUMIDITY",
+      "value": 51,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.8,
+        "humidity": 51,
+        "voltage": 223.1,
+        "current": 3.34,
+        "power": 745.154
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:31:31.562800",
+      "anomaly_type": "HUMIDITY",
+      "value": 49,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.9,
+        "humidity": 49,
+        "voltage": 215.7,
+        "current": 3.023,
+        "power": 652.0611
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:31:33.698480",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 50,
+        "voltage": 218.4,
+        "current": 3.012,
+        "power": 657.8208
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:31:33.785645",
+      "anomaly_type": "POWER",
+      "value": 657.8208,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 50,
+        "voltage": 218.4,
+        "current": 3.012,
+        "power": 657.8208
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:31:35.918302",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.0,
+        "humidity": 50,
+        "voltage": 223.5,
+        "current": 3.099,
+        "power": 692.6265000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:31:36.003016",
+      "anomaly_type": "POWER",
+      "value": 692.6265000000001,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.0,
+        "humidity": 50,
+        "voltage": 223.5,
+        "current": 3.099,
+        "power": 692.6265000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:31:38.122394",
+      "anomaly_type": "HUMIDITY",
+      "value": 49,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 49,
+        "voltage": 225.5,
+        "current": 3.316,
+        "power": 747.7579999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:31:38.260075",
+      "anomaly_type": "POWER",
+      "value": 747.7579999999999,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 49,
+        "voltage": 225.5,
+        "current": 3.316,
+        "power": 747.7579999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:31:40.389072",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.8,
+        "humidity": 50,
+        "voltage": 222.9,
+        "current": 3.148,
+        "power": 701.6892
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:31:42.582755",
+      "anomaly_type": "HUMIDITY",
+      "value": 51,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.0,
+        "humidity": 51,
+        "voltage": 216.0,
+        "current": 3.296,
+        "power": 711.9359999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:31:44.760490",
+      "anomaly_type": "HUMIDITY",
+      "value": 51,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 51,
+        "voltage": 225.3,
+        "current": 3.058,
+        "power": 688.9674
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:31:46.874155",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 52,
+        "voltage": 219.6,
+        "current": 3.186,
+        "power": 699.6456
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:31:49.018329",
+      "anomaly_type": "HUMIDITY",
+      "value": 51,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.3,
+        "humidity": 51,
+        "voltage": 222.9,
+        "current": 3.165,
+        "power": 705.4785
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:31:51.169860",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 50,
+        "voltage": 226.6,
+        "current": 3.07,
+        "power": 695.6619999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:31:53.415058",
+      "anomaly_type": "HUMIDITY",
+      "value": 49,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.3,
+        "humidity": 49,
+        "voltage": 211.6,
+        "current": 3.325,
+        "power": 703.57
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:31:55.553608",
+      "anomaly_type": "HUMIDITY",
+      "value": 51,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.1,
+        "humidity": 51,
+        "voltage": 229.3,
+        "current": 3.232,
+        "power": 741.0976
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:31:57.677179",
+      "anomaly_type": "HUMIDITY",
+      "value": 51,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 51,
+        "voltage": 225.0,
+        "current": 2.961,
+        "power": 666.225
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:31:59.831324",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.8,
+        "humidity": 52,
+        "voltage": 213.7,
+        "current": 3.325,
+        "power": 710.5525
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:32:02.009995",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.0,
+        "humidity": 50,
+        "voltage": 229.9,
+        "current": 3.297,
+        "power": 757.9803
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:32:51.232086",
+      "anomaly_type": "POWER",
+      "value": 663.375,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.2,
+        "humidity": 51,
+        "voltage": 217.5,
+        "current": 3.05,
+        "power": 663.375
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:32:53.284007",
+      "anomaly_type": "HUMIDITY",
+      "value": 51,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.5,
+        "humidity": 51,
+        "voltage": 223.9,
+        "current": 3.094,
+        "power": 692.7466
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:32:55.353297",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.0,
+        "humidity": 50,
+        "voltage": 216.3,
+        "current": 3.205,
+        "power": 693.2415000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:33:01.477038",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 19.9,
+        "humidity": 50,
+        "voltage": 224.3,
+        "current": 3.12,
+        "power": 699.816
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:33:03.549277",
+      "anomaly_type": "HUMIDITY",
+      "value": 49,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.8,
+        "humidity": 49,
+        "voltage": 228.8,
+        "current": 2.946,
+        "power": 674.0448000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:33:05.620012",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.2,
+        "humidity": 52,
+        "voltage": 217.9,
+        "current": 3.226,
+        "power": 702.9454000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:33:15.836702",
+      "anomaly_type": "HUMIDITY",
+      "value": 49,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.1,
+        "humidity": 49,
+        "voltage": 217.5,
+        "current": 3.148,
+        "power": 684.69
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:33:17.951346",
+      "anomaly_type": "HUMIDITY",
+      "value": 49,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 19.9,
+        "humidity": 49,
+        "voltage": 227.9,
+        "current": 3.143,
+        "power": 716.2896999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:33:24.064157",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.3,
+        "humidity": 50,
+        "voltage": 214.0,
+        "current": 3.074,
+        "power": 657.836
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:33:26.132719",
+      "anomaly_type": "HUMIDITY",
+      "value": 49,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 19.9,
+        "humidity": 49,
+        "voltage": 222.8,
+        "current": 3.211,
+        "power": 715.4108
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:33:28.234350",
+      "anomaly_type": "HUMIDITY",
+      "value": 51,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 51,
+        "voltage": 221.8,
+        "current": 3.329,
+        "power": 738.3722000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:33:30.306810",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 50,
+        "voltage": 211.9,
+        "current": 2.965,
+        "power": 628.2835
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:33:32.380936",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.8,
+        "humidity": 50,
+        "voltage": 225.1,
+        "current": 3.009,
+        "power": 677.3258999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:33:34.503698",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.2,
+        "humidity": 52,
+        "voltage": 215.1,
+        "current": 3.208,
+        "power": 690.0408
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:33:36.585065",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.9,
+        "humidity": 52,
+        "voltage": 217.3,
+        "current": 3.189,
+        "power": 692.9697000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:33:38.641529",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 52,
+        "voltage": 215.9,
+        "current": 3.11,
+        "power": 671.449
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:33:59.692106",
+      "anomaly_type": "TEMPERATURE",
+      "value": 20.0,
+      "unit": "\u00b0C",
+      "sensor_data": {
+        "temperature": 20.0,
+        "humidity": 52,
+        "voltage": 211.8,
+        "current": 3.217,
+        "power": 681.3606000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:33:59.782090",
+      "anomaly_type": "CURRENT",
+      "value": 3.217,
+      "unit": "A",
+      "sensor_data": {
+        "temperature": 20.0,
+        "humidity": 52,
+        "voltage": 211.8,
+        "current": 3.217,
+        "power": 681.3606000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:33:59.833149",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.0,
+        "humidity": 52,
+        "voltage": 211.8,
+        "current": 3.217,
+        "power": 681.3606000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:33:59.878175",
+      "anomaly_type": "POWER",
+      "value": 681.3606000000001,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.0,
+        "humidity": 52,
+        "voltage": 211.8,
+        "current": 3.217,
+        "power": 681.3606000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:34:01.949813",
+      "anomaly_type": "TEMPERATURE",
+      "value": 20.0,
+      "unit": "\u00b0C",
+      "sensor_data": {
+        "temperature": 20.0,
+        "humidity": 51,
+        "voltage": 213.5,
+        "current": 3.081,
+        "power": 657.7935
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:34:02.008858",
+      "anomaly_type": "CURRENT",
+      "value": 3.081,
+      "unit": "A",
+      "sensor_data": {
+        "temperature": 20.0,
+        "humidity": 51,
+        "voltage": 213.5,
+        "current": 3.081,
+        "power": 657.7935
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:34:02.059262",
+      "anomaly_type": "HUMIDITY",
+      "value": 51,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.0,
+        "humidity": 51,
+        "voltage": 213.5,
+        "current": 3.081,
+        "power": 657.7935
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:34:02.092604",
+      "anomaly_type": "POWER",
+      "value": 657.7935,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.0,
+        "humidity": 51,
+        "voltage": 213.5,
+        "current": 3.081,
+        "power": 657.7935
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:34:04.155001",
+      "anomaly_type": "TEMPERATURE",
+      "value": 20.0,
+      "unit": "\u00b0C",
+      "sensor_data": {
+        "temperature": 20.0,
+        "humidity": 51,
+        "voltage": 220.0,
+        "current": 3.276,
+        "power": 720.7199999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:34:04.196502",
+      "anomaly_type": "CURRENT",
+      "value": 3.276,
+      "unit": "A",
+      "sensor_data": {
+        "temperature": 20.0,
+        "humidity": 51,
+        "voltage": 220.0,
+        "current": 3.276,
+        "power": 720.7199999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:34:04.244215",
+      "anomaly_type": "HUMIDITY",
+      "value": 51,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.0,
+        "humidity": 51,
+        "voltage": 220.0,
+        "current": 3.276,
+        "power": 720.7199999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:34:04.297640",
+      "anomaly_type": "POWER",
+      "value": 720.7199999999999,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.0,
+        "humidity": 51,
+        "voltage": 220.0,
+        "current": 3.276,
+        "power": 720.7199999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:34:06.365190",
+      "anomaly_type": "TEMPERATURE",
+      "value": 20.4,
+      "unit": "\u00b0C",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 51,
+        "voltage": 223.7,
+        "current": 3.291,
+        "power": 736.1967
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:34:06.412586",
+      "anomaly_type": "CURRENT",
+      "value": 3.291,
+      "unit": "A",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 51,
+        "voltage": 223.7,
+        "current": 3.291,
+        "power": 736.1967
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:34:06.457678",
+      "anomaly_type": "HUMIDITY",
+      "value": 51,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 51,
+        "voltage": 223.7,
+        "current": 3.291,
+        "power": 736.1967
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:34:06.598195",
+      "anomaly_type": "POWER",
+      "value": 736.1967,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 51,
+        "voltage": 223.7,
+        "current": 3.291,
+        "power": 736.1967
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:34:08.666150",
+      "anomaly_type": "TEMPERATURE",
+      "value": 19.9,
+      "unit": "\u00b0C",
+      "sensor_data": {
+        "temperature": 19.9,
+        "humidity": 50,
+        "voltage": 224.1,
+        "current": 3.048,
+        "power": 683.0568
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:34:08.729376",
+      "anomaly_type": "CURRENT",
+      "value": 3.048,
+      "unit": "A",
+      "sensor_data": {
+        "temperature": 19.9,
+        "humidity": 50,
+        "voltage": 224.1,
+        "current": 3.048,
+        "power": 683.0568
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:34:08.763214",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 19.9,
+        "humidity": 50,
+        "voltage": 224.1,
+        "current": 3.048,
+        "power": 683.0568
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:34:08.797979",
+      "anomaly_type": "POWER",
+      "value": 683.0568,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 19.9,
+        "humidity": 50,
+        "voltage": 224.1,
+        "current": 3.048,
+        "power": 683.0568
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:34:10.838993",
+      "anomaly_type": "TEMPERATURE",
+      "value": 20.1,
+      "unit": "\u00b0C",
+      "sensor_data": {
+        "temperature": 20.1,
+        "humidity": 53,
+        "voltage": 210.2,
+        "current": 3.289,
+        "power": 691.3478
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:34:10.903374",
+      "anomaly_type": "CURRENT",
+      "value": 3.289,
+      "unit": "A",
+      "sensor_data": {
+        "temperature": 20.1,
+        "humidity": 53,
+        "voltage": 210.2,
+        "current": 3.289,
+        "power": 691.3478
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:34:10.935285",
+      "anomaly_type": "HUMIDITY",
+      "value": 53,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.1,
+        "humidity": 53,
+        "voltage": 210.2,
+        "current": 3.289,
+        "power": 691.3478
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:34:10.963700",
+      "anomaly_type": "POWER",
+      "value": 691.3478,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.1,
+        "humidity": 53,
+        "voltage": 210.2,
+        "current": 3.289,
+        "power": 691.3478
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:34:13.032993",
+      "anomaly_type": "TEMPERATURE",
+      "value": 20.0,
+      "unit": "\u00b0C",
+      "sensor_data": {
+        "temperature": 20.0,
+        "humidity": 52,
+        "voltage": 226.8,
+        "current": 3.329,
+        "power": 755.0172000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:34:13.121352",
+      "anomaly_type": "CURRENT",
+      "value": 3.329,
+      "unit": "A",
+      "sensor_data": {
+        "temperature": 20.0,
+        "humidity": 52,
+        "voltage": 226.8,
+        "current": 3.329,
+        "power": 755.0172000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:34:13.204742",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.0,
+        "humidity": 52,
+        "voltage": 226.8,
+        "current": 3.329,
+        "power": 755.0172000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:34:13.285337",
+      "anomaly_type": "POWER",
+      "value": 755.0172000000001,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.0,
+        "humidity": 52,
+        "voltage": 226.8,
+        "current": 3.329,
+        "power": 755.0172000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:34:15.373920",
+      "anomaly_type": "CURRENT",
+      "value": 3.11,
+      "unit": "A",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 50,
+        "voltage": 222.3,
+        "current": 3.11,
+        "power": 691.353
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:34:15.456254",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 50,
+        "voltage": 222.3,
+        "current": 3.11,
+        "power": 691.353
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:34:15.538229",
+      "anomaly_type": "POWER",
+      "value": 691.353,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 50,
+        "voltage": 222.3,
+        "current": 3.11,
+        "power": 691.353
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:34:17.650256",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 52,
+        "voltage": 221.1,
+        "current": 3.184,
+        "power": 703.9824
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:34:17.740729",
+      "anomaly_type": "POWER",
+      "value": 703.9824,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 52,
+        "voltage": 221.1,
+        "current": 3.184,
+        "power": 703.9824
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:34:19.868708",
+      "anomaly_type": "CURRENT",
+      "value": 3.248,
+      "unit": "A",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 52,
+        "voltage": 221.4,
+        "current": 3.248,
+        "power": 719.1072
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:34:19.979681",
+      "anomaly_type": "HUMIDITY",
+      "value": 52,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 52,
+        "voltage": 221.4,
+        "current": 3.248,
+        "power": 719.1072
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:34:20.071793",
+      "anomaly_type": "POWER",
+      "value": 719.1072,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 52,
+        "voltage": 221.4,
+        "current": 3.248,
+        "power": 719.1072
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:34:22.208793",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 50,
+        "voltage": 215.1,
+        "current": 3.176,
+        "power": 683.1576
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:34:22.308129",
+      "anomaly_type": "POWER",
+      "value": 683.1576,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 50,
+        "voltage": 215.1,
+        "current": 3.176,
+        "power": 683.1576
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:34:24.435061",
+      "anomaly_type": "HUMIDITY",
+      "value": 51,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.5,
+        "humidity": 51,
+        "voltage": 218.3,
+        "current": 3.066,
+        "power": 669.3078
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:34:24.568370",
+      "anomaly_type": "POWER",
+      "value": 669.3078,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.5,
+        "humidity": 51,
+        "voltage": 218.3,
+        "current": 3.066,
+        "power": 669.3078
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:34:26.709110",
+      "anomaly_type": "TEMPERATURE",
+      "value": 20.0,
+      "unit": "\u00b0C",
+      "sensor_data": {
+        "temperature": 20.0,
+        "humidity": 52,
+        "voltage": 213.7,
+        "current": 3.061,
+        "power": 654.1356999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:34:26.852015",
+      "anomaly_type": "POWER",
+      "value": 654.1356999999999,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.0,
+        "humidity": 52,
+        "voltage": 213.7,
+        "current": 3.061,
+        "power": 654.1356999999999
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:34:28.986859",
+      "anomaly_type": "TEMPERATURE",
+      "value": 20.6,
+      "unit": "\u00b0C",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 52,
+        "voltage": 217.8,
+        "current": 3.03,
+        "power": 659.934
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:34:29.108334",
+      "anomaly_type": "POWER",
+      "value": 659.934,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.6,
+        "humidity": 52,
+        "voltage": 217.8,
+        "current": 3.03,
+        "power": 659.934
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:34:31.212409",
+      "anomaly_type": "TEMPERATURE",
+      "value": 20.0,
+      "unit": "\u00b0C",
+      "sensor_data": {
+        "temperature": 20.0,
+        "humidity": 51,
+        "voltage": 226.8,
+        "current": 3.009,
+        "power": 682.4412
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:34:31.319344",
+      "anomaly_type": "POWER",
+      "value": 682.4412,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.0,
+        "humidity": 51,
+        "voltage": 226.8,
+        "current": 3.009,
+        "power": 682.4412
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:34:33.470564",
+      "anomaly_type": "TEMPERATURE",
+      "value": 20.0,
+      "unit": "\u00b0C",
+      "sensor_data": {
+        "temperature": 20.0,
+        "humidity": 51,
+        "voltage": 226.5,
+        "current": 3.051,
+        "power": 691.0515
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:34:33.582575",
+      "anomaly_type": "POWER",
+      "value": 691.0515,
+      "unit": "W",
+      "sensor_data": {
+        "temperature": 20.0,
+        "humidity": 51,
+        "voltage": 226.5,
+        "current": 3.051,
+        "power": 691.0515
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:34:35.709516",
+      "anomaly_type": "TEMPERATURE",
+      "value": 20.1,
+      "unit": "\u00b0C",
+      "sensor_data": {
+        "temperature": 20.1,
+        "humidity": 50,
+        "voltage": 226.2,
+        "current": 3.186,
+        "power": 720.6732
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:34:35.822266",
+      "anomaly_type": "HUMIDITY",
+      "value": 50,
+      "unit": "%",
+      "sensor_data": {
+        "temperature": 20.1,
+        "humidity": 50,
+        "voltage": 226.2,
+        "current": 3.186,
+        "power": 720.6732
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:34:42.030574",
+      "anomaly_type": "TEMPERATURE",
+      "value": 20.5,
+      "unit": "\u00b0C",
+      "sensor_data": {
+        "temperature": 20.5,
+        "humidity": 52,
+        "voltage": 211.4,
+        "current": 2.975,
+        "power": 628.9150000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:34:44.156331",
+      "anomaly_type": "TEMPERATURE",
+      "value": 20.5,
+      "unit": "\u00b0C",
+      "sensor_data": {
+        "temperature": 20.5,
+        "humidity": 51,
+        "voltage": 226.5,
+        "current": 3.044,
+        "power": 689.466
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:34:46.288128",
+      "anomaly_type": "TEMPERATURE",
+      "value": 20.4,
+      "unit": "\u00b0C",
+      "sensor_data": {
+        "temperature": 20.4,
+        "humidity": 49,
+        "voltage": 214.3,
+        "current": 3.163,
+        "power": 677.8309
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:34:48.413847",
+      "anomaly_type": "TEMPERATURE",
+      "value": 19.9,
+      "unit": "\u00b0C",
+      "sensor_data": {
+        "temperature": 19.9,
+        "humidity": 50,
+        "voltage": 223.3,
+        "current": 3.174,
+        "power": 708.7542
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:34:50.564084",
+      "anomaly_type": "TEMPERATURE",
+      "value": 20.5,
+      "unit": "\u00b0C",
+      "sensor_data": {
+        "temperature": 20.5,
+        "humidity": 49,
+        "voltage": 223.9,
+        "current": 2.988,
+        "power": 669.0132
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:34:52.679621",
+      "anomaly_type": "TEMPERATURE",
+      "value": 20.7,
+      "unit": "\u00b0C",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 52,
+        "voltage": 229.8,
+        "current": 3.299,
+        "power": 758.1102000000001
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:34:54.810979",
+      "anomaly_type": "TEMPERATURE",
+      "value": 20.3,
+      "unit": "\u00b0C",
+      "sensor_data": {
+        "temperature": 20.3,
+        "humidity": 49,
+        "voltage": 225.7,
+        "current": 3.181,
+        "power": 717.9517
+      },
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2025-06-30T16:34:56.956075",
+      "anomaly_type": "TEMPERATURE",
+      "value": 20.7,
+      "unit": "\u00b0C",
+      "sensor_data": {
+        "temperature": 20.7,
+        "humidity": 49,
+        "voltage": 219.4,
+        "current": 3.198,
+        "power": 701.6412
+      },
+      "severity": "MEDIUM"
+    }
+  ]
+}
